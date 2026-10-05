@@ -1,0 +1,1703 @@
+{
+  "schema_version": 1,
+  "exporter_version": "6.4.17",
+  "exported_at": "2026-10-05T13:30:12.832561+00:00",
+  "source_url": "https://2gis.kz/astana/firm/70000001092448703",
+  "source_platform": "2gis",
+  "resolved_url": "https://2gis.kz/astana/firm/70000001092448703",
+  "organization_id": "70000001092448703",
+  "tan_id": "TAN-010",
+  "type": "master",
+  "organization": {
+    "name": "Este Beauty",
+    "description": "Este Beauty, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Жен.стрижка от 7000 тнг., Муж.стрижка от 5000 тнг., Детская стрижка, Стрижка бороды, Женская химзавивка, Мужская химзавивка, Сложное окрашивание, Wi-Fi для клиентов",
+    "address": "Улица Достык, 13",
+    "status_and_hours": "Открыто · Ежедневно с 10:00 до 21:00",
+    "phones": [
+      "+77080118080"
+    ],
+    "booking_links": [
+      "https://link.2gis.com/4.2/0504B58D/aHR0cHM6Ly9hcGkud2hhdHNhcHAuY29tL3NlbmQvP3Bob25lPTc3MDg0MjU0NDU1JnRleHQ9JUQwJTk3JUQwJUI0JUQxJTgwJUQwJUIwJUQwJUIyJUQxJTgxJUQxJTgyJUQwJUIyJUQxJTgzJUQwJUI5JUQxJTgyJUQwJUI1ISUwQSUwQSVEMCU5RiVEMCVCOCVEMSU4OCVEMSU4MyslRDAlQjglRDAlQjcrJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGKzIlRDAlOTMlRDAlOTglRDAlQTEuJTBBJTBBJnR5cGU9cGhvbmVfbnVtYmVyJmFwcF9hYnNlbnQ9MApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiY2FkNjFmNTAtNTVmMS00NjZiLWE3YjMtNDkzZjI0OWM2NWNkIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzA1LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiJlYzFkMTBlZi1kYzE0LTRkMmYtOTc2Yi1kN2Y4MmM2YzY2ODQiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjo0LCJmcmFtZVV1aWQiOiJhMGMyNzYyMC1mOTBlLTRlNTEtOWExMC00ZGQ5OWM3MWM5MTkifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yL0UyMjcwNTYxL29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjgvNzAwMDAwMDEwNjM4ODA4MDcvbnVsbC9tdjI0M3UydTRkZjVlQThkQUo4SEc0SUE0R0lJR0hHNTlwNEVveng5ZWQtOTg2MzAxMzE3MUFDSTc0OEIxODI5LTcwQjAwNGQzNzA0SjI4QzM5MkM1Nzc5NEgySTRISjRpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTBIMUozSTY4MUdnND9odHRwczovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwODQyNTQ0NTUmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA5MjQ0ODcwMyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3MS40MzU1NzcsImxhdCI6NTEuMTI2Nzl9LCJtYWluUnVicmljIjoiMzA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMDk1Mzk0NzEiLCJoYXNNb2RlbCI6ZmFsc2V9LCJhZHNCYW5uZXIiOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjM4ODA4MDciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjgifX0sIm1haW5SdWJyaWMiOiI1NjAzIiwib3JnIjoiNzAwMDAwMDEwNjM4ODA4MDYiLCJhZHNBbGdvcml0aG0iOjIwLCJhdWN0aW9uSWQiOiI2M2FjNDFmMi1lODE0LTQ5NzgtYTMxZC03OGI4OTM0NWI2ZDEiLCJjb250ZXh0UnVicmljIjoiNTYwMyIsInBvc2l0aW9uIjo0LCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjQsInBhcmVudFRhYklkIjoiNzI3OGUxN2YtYzM1YS00MWE1LWIxNmUtNjllNWMwNGQ5OTM4In19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzIifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMiJ9LHsibmFtZSI6IkZpbHRlcnNPbk1hcE9ubGluZSIsInZhbHVlIjoiZW5hYmxlXzIifSx7Im5hbWUiOiJtYXBUb29sdGlwRXhwZXJpbWVudCIsInZhbHVlIjoiY29udHJvbEdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMiJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8yIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzIifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d",
+      "https://link.2gis.com/4.2/661CA9DC/aHR0cHM6Ly9hcGkud2hhdHNhcHAuY29tL3NlbmQvP3Bob25lPTc3MDE1MDAwMDY0JnRleHQ9JUQwJTk3JUQwJUI0JUQxJTgwJUQwJUIwJUQwJUIyJUQxJTgxJUQxJTgyJUQwJUIyJUQxJTgzJUQwJUI5JUQxJTgyJUQwJUI1ISUwQSUwQSVEMCU5RiVEMCVCOCVEMSU4OCVEMSU4MyslRDAlQjglRDAlQjcrJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGKzIlRDAlOTMlRDAlOTglRDAlQTEuJTBBJTBBJnR5cGU9cGhvbmVfbnVtYmVyJmFwcF9hYnNlbnQ9MApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiNWViMjhiNjgtMTEzOS00N2NiLWI1NzAtODJiZDNlNDMzMjVhIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzA1LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiJlZTQxZDJlNi0yZTBlLTRjZTAtYTZlZi0yODU0ZTI0M2MxYjgiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjo1LCJmcmFtZVV1aWQiOiJhMGMyNzYyMC1mOTBlLTRlNTEtOWExMC00ZGQ5OWM3MWM5MTkifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzNBNEMwRDc2L29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjgvNzAwMDAwMDExMDU3ODAyOTcvbnVsbC9oMXU4eHF2ZzRkZjVlQThkQUo4SEc0SUFIR0lJR0gySkRzaG04cmZoZWQtOTg2MzAxMzE3MUFDSTE2N0IxMkI5LTcwQjAwNGQzNzA0SjI4QzM5MkM1Nzc5SDFJM0pINTVpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTFIMUozSTQyNjlDP2h0dHBzOi8vYXBpLndoYXRzYXBwLmNvbS9zZW5kLz9waG9uZT03NzAxNTAwMDA2NCZ0ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMrJUQwJUI4JUQwJUI3KyVEMCVCRiVEMSU4MCVEMCVCOCVEMCVCQiVEMCVCRSVEMCVCNiVEMCVCNSVEMCVCRCVEMCVCOCVEMSU4RisyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQSZ0eXBlPXBob25lX251bWJlciZhcHBfYWJzZW50PTAifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDkyNDQ4NzAzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY4In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjcxLjQzNTU3NywibGF0Ijo1MS4xMjY3OX0sIm1haW5SdWJyaWMiOiIzMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTUzOTQ3MSIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTEwNTc4MDI5NyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwibWFpblJ1YnJpYyI6IjMwNSIsIm9yZyI6IjcwMDAwMDAxMTA1NzgwMjk2IiwiYWRzQWxnb3JpdGhtIjoyMCwiYXVjdGlvbklkIjoiNjNhYzQxZjItZTgxNC00OTc4LWEzMWQtNzhiODkzNDViNmQxIiwiY29udGV4dFJ1YnJpYyI6IjMwNSIsInBvc2l0aW9uIjo1LCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjQsInBhcmVudFRhYklkIjoiNzI3OGUxN2YtYzM1YS00MWE1LWIxNmUtNjllNWMwNGQ5OTM4In19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzIifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMiJ9LHsibmFtZSI6IkZpbHRlcnNPbk1hcE9ubGluZSIsInZhbHVlIjoiZW5hYmxlXzIifSx7Im5hbWUiOiJtYXBUb29sdGlwRXhwZXJpbWVudCIsInZhbHVlIjoiY29udHJvbEdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMiJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8yIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzIifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+    ],
+    "rating": "4.9",
+    "review_count": "131",
+    "coordinates": {
+      "longitude": "71.435577",
+      "latitude": "51.12679"
+    },
+    "social_links": [
+      "https://instagram.com/este.beauty.astana",
+      "https://wa.me/77080118080?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A",
+      "https://api.whatsapp.com/send/?phone=77757785689&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+2%D0%93%D0%98%D0%A1.%0A%0A&type=phone_number&app_absent=0",
+      "https://api.whatsapp.com/send/?phone=77082003230&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+2%D0%93%D0%98%D0%A1.%0A%0A&type=phone_number&app_absent=0",
+      "https://api.whatsapp.com/send/?phone=77084254455&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+2%D0%93%D0%98%D0%A1.%0A%0A&type=phone_number&app_absent=0",
+      "https://api.whatsapp.com/send/?phone=77015000064&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+2%D0%93%D0%98%D0%A1.%0A%0A&type=phone_number&app_absent=0"
+    ]
+  },
+  "services": [
+    {
+      "category": "Стрижки",
+      "name": "Стрижка Женская",
+      "description": "",
+      "duration": "",
+      "price_text": "от 7 000 T",
+      "price_from": "7 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Стрижка Женская\nот 7 000 T"
+    },
+    {
+      "category": "Стрижки",
+      "name": "Укладка",
+      "description": "",
+      "duration": "",
+      "price_text": "от 6 000 T",
+      "price_from": "6 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Укладка\nот 6 000 T"
+    },
+    {
+      "category": "Стрижки",
+      "name": "Укладка локоны",
+      "description": "",
+      "duration": "",
+      "price_text": "от 8 000 T",
+      "price_from": "8 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Укладка локоны\nот 8 000 T"
+    },
+    {
+      "category": "Стрижки",
+      "name": "Окрашивание корней",
+      "description": "",
+      "duration": "",
+      "price_text": "от 15 000 T",
+      "price_from": "15 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Окрашивание корней\nот 15 000 T"
+    },
+    {
+      "category": "Стрижки",
+      "name": "Сложное окрашивание",
+      "description": "",
+      "duration": "",
+      "price_text": "от 35 000 T",
+      "price_from": "35 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Сложное окрашивание\nот 35 000 T"
+    },
+    {
+      "category": "Стрижки",
+      "name": "Химическая завивка",
+      "description": "",
+      "duration": "",
+      "price_text": "от 20 000 T",
+      "price_from": "20 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Химическая завивка\nот 20 000 T"
+    },
+    {
+      "category": "Nail",
+      "name": "Маникюр без покрытия",
+      "description": "",
+      "duration": "",
+      "price_text": "от 6 000 T",
+      "price_from": "6 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Маникюр без покрытия\nот 6 000 T"
+    },
+    {
+      "category": "Nail",
+      "name": "Маникюр с гель покрытием",
+      "description": "",
+      "duration": "",
+      "price_text": "от 8 000 T",
+      "price_from": "8 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Маникюр с гель покрытием\nот 8 000 T"
+    },
+    {
+      "category": "Nail",
+      "name": "Маникюр с лаком",
+      "description": "",
+      "duration": "",
+      "price_text": "от 7 000 T",
+      "price_from": "7 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Маникюр с лаком\nот 7 000 T"
+    },
+    {
+      "category": "Nail",
+      "name": "Наращивание ногтей",
+      "description": "",
+      "duration": "",
+      "price_text": "от 15 000 T",
+      "price_from": "15 000",
+      "price_to": "",
+      "currency": "T",
+      "raw_text": "Наращивание ногтей\nот 15 000 T"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Екатерина Морозова",
+      "date": "22 апреля 2026",
+      "rating": "5",
+      "text": "Была на стрижке и окрашивании у мастера Гульмиры. Сделала всё очень качественно и красиво. Дала советы по уходу за волосами. Так же делала маникюр у мастера Елены. Это профессионал своего дела. Очень отзывчивый и внимательный администратор. Спасибо салону за таких хороших мастеров. Буду теперь постоянным клиентом. Частый гость",
+      "raw_text": "ЕМ Екатерина Морозова 8 отзывов 22 апреля 2026 Была на стрижке и окрашивании у мастера Гульмиры. Сделала всё очень качественно и красиво. Дала советы по уходу за волосами. Так же делала маникюр у мастера Елены. Это профессионал своего дела. Очень отзывчивый и внимательный администратор. Спасибо салону за таких хороших мастеров. Буду теперь постоянным клиентом. Читать целиком Частый гость Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Ару 🤍",
+      "date": "16 июня 2026",
+      "rating": "5",
+      "text": "Мастер опоздала на 15минут, при этом обозвала меня больной ! 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️",
+      "raw_text": "Ару 🤍 29 отзывов 16 июня 2026 Мастер опоздала на 15минут, при этом обозвала меня больной ! 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️ 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Zhamanbaeva Ayagoz",
+      "date": "6 июня 2026",
+      "rating": "5",
+      "text": "Совершенно наобум, сильно рискуя, чисто по отзывам плюс сегодня на стрижку сюда. Гульмира постригла хорошо, каскад мой обросший подправила отлично, спасибо большое. 2GIS не врет, можно верить Пошла две недели назад повторно к Гульмире и - это просто чудо!- она постригла меня так, что теперь я просто мою вечером голову, в утром просыпаюсь с укладкой на голове. Гульмира сумела так постричь, что не нужно даже бигуди накладывать утром, это просто сказка 👍👍👍",
+      "raw_text": "ZA Zhamanbaeva Ayagoz 70 отзывов 6 июня 2026, изменён Совершенно наобум, сильно рискуя, чисто по отзывам плюс сегодня на стрижку сюда. Гульмира постригла хорошо, каскад мой обросший подправила отлично, спасибо большое. 2GIS не врет, можно верить Пошла две недели назад повторно к Гульмире и - это просто чудо!- она постригла меня так, что теперь я просто мою вечером голову, в утром просыпаюсь с укладкой на голове. Гульмира сумела так постричь, что не нужно даже бигуди накладывать утром, это просто сказка 👍👍👍 Читать целиком 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Ару ?",
+      "date": "30 апреля 2026",
+      "rating": "5",
+      "text": "Посетила этот салон и осталась в хорошем впечатлений! Другой салон очень сильно испортил мне волосы. Но Мастер Алия — профессионал своего дела, в буквальном смысле «спасла» мои волосы! сделала все очень качественно и аккуратно. Стрижка и сложное окрашивание очень мне понравились🫶🏻 Отдельно хотела бы отметить сервис в этом салоне, администратор очень вежливая и милая женщина! Я благодарна вашему салону за такую качественную услугу❤️",
+      "raw_text": "Ару ? 7 отзывов 30 апреля 2026, изменён Посетила этот салон и осталась в хорошем впечатлений! Другой салон очень сильно испортил мне волосы. Но Мастер Алия — профессионал своего дела, в буквальном смысле «спасла» мои волосы! сделала все очень качественно и аккуратно. Стрижка и сложное окрашивание очень мне понравились🫶🏻 Отдельно хотела бы отметить сервис в этом салоне, администратор очень вежливая и милая женщина! Я благодарна вашему салону за такую качественную услугу❤️ Читать целиком 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Ахмед Хамидов",
+      "date": "4 июня 2026",
+      "rating": "5",
+      "text": "Хорошо подстригли 👍👍👍",
+      "raw_text": "Ахмед Хамидов 10 отзывов 4 июня 2026, изменён Хорошо подстригли 👍👍👍 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Aijan Alimbaeva",
+      "date": "16 февраля 2026",
+      "rating": "5",
+      "text": "Благодарю мастера Севинч за качественно выполненную работу. Маникюр выполнен аккуратно, соблюдены все нормы гигиены, покрытие ровное и стойкое. Результатом полностью довольна. Рекомендую как профессионального специалиста. Частый гость",
+      "raw_text": "AA Aijan Alimbaeva 6 отзывов 16 февраля 2026 Благодарю мастера Севинч за качественно выполненную работу. Маникюр выполнен аккуратно, соблюдены все нормы гигиены, покрытие ровное и стойкое. Результатом полностью довольна. Рекомендую как профессионального специалиста. Читать целиком Частый гость Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Alisa Sun",
+      "date": "12 февраля 2026",
+      "rating": "5",
+      "text": "Сделала маникюр и педикюр у мастера Севинч.Отличный мастер! Маникюр и педикюр выполнены аккуратно и профессионально.Очень довольна результатом, спасибо! 🙏🏻🌹",
+      "raw_text": "AS Alisa Sun 7 отзывов 12 февраля 2026 Сделала маникюр и педикюр у мастера Севинч.Отличный мастер! Маникюр и педикюр выполнены аккуратно и профессионально.Очень довольна результатом, спасибо! 🙏🏻🌹 Читать целиком 4 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "alzhnk .",
+      "date": "25 ноября 2025",
+      "rating": "5",
+      "text": "Единственная парикмахерская где работают профессионалы своего дела. Спасибо мастеру Гульмира! К тому же сделали скидку в 20% за первое посещение",
+      "raw_text": "alzhnk . 27 отзывов 25 ноября 2025 Единственная парикмахерская где работают профессионалы своего дела. Спасибо мастеру Гульмира! К тому же сделали скидку в 20% за первое посещение 2 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Арайлым Жанибек",
+      "date": "13 ноября 2025",
+      "rating": "5",
+      "text": "Приятные чувства после этого салона ✨ Не часто пишу отзывы, но захотелось оставить, администратор классная женщина и мастера прекрасные, приятные 😊",
+      "raw_text": "АЖ Арайлым Жанибек 4 отзыва 13 ноября 2025 Приятные чувства после этого салона ✨ Не часто пишу отзывы, но захотелось оставить, администратор классная женщина и мастера прекрасные, приятные 😊 2 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Камила",
+      "date": "8 января 2026",
+      "rating": "5",
+      "text": "Салон супер. Мастера топ 😍",
+      "raw_text": "Камила 7 отзывов 8 января 2026 Салон супер. Мастера топ 😍 3 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Абзал Нокышев",
+      "date": "29 ноября 2025",
+      "rating": "5",
+      "text": "Лучшая стрижка, лучший хостес 😃",
+      "raw_text": "Абзал Нокышев 14 отзывов 29 ноября 2025 Лучшая стрижка, лучший хостес 😃 3 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Дана Казиева",
+      "date": "21 сентября 2025",
+      "rating": "5",
+      "text": "Работает мастер с многолетним опытом, Турегали👍🏻 Стрижки самые лучшие",
+      "raw_text": "ДК Дана Казиева 5 отзывов 21 сентября 2025, изменён Работает мастер с многолетним опытом, Турегали👍🏻 Стрижки самые лучшие 2 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Rishat Omirzakov",
+      "date": "26 декабря 2025",
+      "rating": "5",
+      "text": "👍🏼👍🏼",
+      "raw_text": "Rishat Omirzakov 3 отзыва 26 декабря 2025, изменён 👍🏼👍🏼 3 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Саид Мурат",
+      "date": "9 февраля 2026",
+      "rating": "5",
+      "text": "Очень уютно, админ такая приветливая 🥰 К сожалению не спросила имя мастера ногтевого сервиса, такая милая и профессионал своей работы. Быстро, красиво 🫶",
+      "raw_text": "СМ Саид Мурат 2 отзыва 9 февраля 2026 Очень уютно, админ такая приветливая 🥰 К сожалению не спросила имя мастера ногтевого сервиса, такая милая и профессионал своей работы. Быстро, красиво 🫶 Читать целиком 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Балерина Капучино",
+      "date": "2 февраля 2026",
+      "rating": "5",
+      "text": "Администратор очень приятная, мастер Гульмира профессионал своего дела, сделала стрижку и укладку, как я и хотела!",
+      "raw_text": "Балерина Капучино 4 отзыва 2 февраля 2026 Администратор очень приятная, мастер Гульмира профессионал своего дела, сделала стрижку и укладку, как я и хотела! 1 посещение Отзыв подтверждён Полезно? EB Este Beauty, салон красоты 2 февраля 2026, официальный ответ Добрый день, спасибо большое за отзыв и высокую оценку 🙏👌 Успехов вам."
+    },
+    {
+      "author": "Di Di",
+      "date": "27 сентября 2025",
+      "rating": "5",
+      "text": "Очень нравится этот салон, Была на маникюре у мастера Елена! Маникюр супер! Обслуживание и подход к клиентам на высоте! Спасибо 🙏🏻 и процветания салону.",
+      "raw_text": "DD Di Di 25 отзывов 27 сентября 2025 Очень нравится этот салон, Была на маникюре у мастера Елена! Маникюр супер! Обслуживание и подход к клиентам на высоте! Спасибо 🙏🏻 и процветания салону. Читать целиком 1 посещение Отзыв подтверждён Полезно? EB Este Beauty, салон красоты 28 сентября 2025, официальный ответ Здравствуйте, Di, огромное спасибо за приятный отклик 😌 Нам очень приятно 💛Будем ждать Вас снова."
+    },
+    {
+      "author": "Kamila Sabitova",
+      "date": "13 марта 2026",
+      "rating": "5",
+      "text": "Мастер по наращиванию ресниц Айжан качественно делает свою работу, все учитывает, спасибо 👍🏻",
+      "raw_text": "KS Kamila Sabitova 20 отзывов 13 марта 2026 Мастер по наращиванию ресниц Айжан качественно делает свою работу, все учитывает, спасибо 👍🏻 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Жанаргуль",
+      "date": "27 октября 2025",
+      "rating": "5",
+      "text": "Спасибо персоналу всп очень приятные люди. В салоне чистота гармония. Мне все понравилось",
+      "raw_text": "Ж Жанаргуль 19 отзывов 27 октября 2025, изменён Спасибо персоналу всп очень приятные люди. В салоне чистота гармония. Мне все понравилось 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Гульназ Айтимбетова",
+      "date": "21 февраля 2026",
+      "rating": "5",
+      "text": "Не понравилось укладка, очень слабо укладывают Русская женщина",
+      "raw_text": "Гульназ Айтимбетова 6 отзывов 21 февраля 2026, изменён Не понравилось укладка, очень слабо укладывают Русская женщина 1 посещение Отзыв подтверждён Полезно? EB Este Beauty, салон красоты 25 февраля 2026, официальный ответ Здравствуйте! У нас не раьотает мастер русская женщина, вы что то перепутали. По какому адресу вы были? Все комментарии"
+    },
+    {
+      "author": "Ақтөс Бетховен",
+      "date": "1 мая 2025",
+      "rating": "5",
+      "text": "Сегодня впервые увидел, как работает настоящий мастер своего дела! Барбер Аглан - ювелир! Подошел с максимальным вниманием, учел все пожелания, не нужно было объяснять на пальцах, понял все с полуслова. Впервые меня устроило АБСОЛЮТНО все в стрижке, рахмет! Аглан, енбегиннин жемисин кор! p.s. Администратор очень вежливая, добрая! Спасибо ей большое за внимание😌",
+      "raw_text": "Ақтөс Бетховен 38 отзывов 1 мая 2025 Сегодня впервые увидел, как работает настоящий мастер своего дела! Барбер Аглан - ювелир! Подошел с максимальным вниманием, учел все пожелания, не нужно было объяснять на пальцах, понял все с полуслова. Впервые меня устроило АБСОЛЮТНО все в стрижке, рахмет! Аглан, енбегиннин жемисин кор! p.s. Администратор очень вежливая, добрая! Спасибо ей большое за внимание😌 Читать целиком 7 посещений Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ N! Спасибо вам большое, что уделили время и написали отзыв 🙏 Приходите к нам ещё."
+    },
+    {
+      "author": "Василий Кашигин",
+      "date": "29 июня 2025",
+      "rating": "5",
+      "text": "Все на высшем уровне, начиная от ресепшена до мастера. Все очень вежливые, стрижкой очень доволен я давно не мог найти что-то подходящее мастер знает свое дело.",
+      "raw_text": "ВК Василий Кашигин 2 отзыва 29 июня 2025 Все на высшем уровне, начиная от ресепшена до мастера. Все очень вежливые, стрижкой очень доволен я давно не мог найти что-то подходящее мастер знает свое дело. Читать целиком 2 посещения Отзыв подтверждён 3 Полезно?"
+    },
+    {
+      "author": "Elzhas. Sansyzbay.",
+      "date": "18 мая 2025",
+      "rating": "5",
+      "text": "Впервые сходил в барбершоп, решил пойти именно в «ЭСТЭ» и не пожалел😁👍🏻 Комфортно и приятно, получил что хотел + скидка 30% за первое посещение и бесплатный чай)✨. Особенно спасибо мастеру своего дела Айгерим. Замечательный и приятный человек❤️.",
+      "raw_text": "Elzhas. Sansyzbay. 5 отзывов 18 мая 2025 Впервые сходил в барбершоп, решил пойти именно в «ЭСТЭ» и не пожалел😁👍🏻 Комфортно и приятно, получил что хотел + скидка 30% за первое посещение и бесплатный чай)✨. Особенно спасибо мастеру своего дела Айгерим. Замечательный и приятный человек❤️. Читать целиком 2 посещения Отзыв подтверждён 3 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Добрый вечер, Ельжас., огромное спасибо, что выбрали нас 😌 Рады стараться. Все комментарии"
+    },
+    {
+      "author": "Romeo Malance",
+      "date": "21 февраля 2025",
+      "rating": "5",
+      "text": "Отличный барбершоп, рахмет Ахмету за стрижку! И за полезные советы🤌 Успехов 💪🏼💪🏼",
+      "raw_text": "Romeo Malance 91 отзыв 21 февраля 2025, изменён Отличный барбершоп, рахмет Ахмету за стрижку! И за полезные советы🤌 Успехов 💪🏼💪🏼 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Almas Kozybayev",
+      "date": "18 февраля 2025",
+      "rating": "5",
+      "text": "Отличный барбершоп! Хочу поблагодарить барбера Бахтияра за отличную работу! Он настоящий профессионал своего дела. Сделал мне именно ту стрижку, которую я хотел, учел все мои пожелания. В барбершопе Old Money очень приятная атмосфера, стильный интерьер. Все сотрудники вежливые и приветливые. Обязательно приду сюда еще раз и буду рекомендовать это место своим друзьям.",
+      "raw_text": "Almas Kozybayev 20 отзывов 18 февраля 2025, изменён Отличный барбершоп! Хочу поблагодарить барбера Бахтияра за отличную работу! Он настоящий профессионал своего дела. Сделал мне именно ту стрижку, которую я хотел, учел все мои пожелания. В барбершопе Old Money очень приятная атмосфера, стильный интерьер. Все сотрудники вежливые и приветливые. Обязательно приду сюда еще раз и буду рекомендовать это место своим друзьям. Читать целиком 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Жанар🌸 ‘",
+      "date": "30 июля 2026",
+      "rating": "5",
+      "text": "Самый любимый салон, прихожу и отдыхаю, Анара администратор всегда подбирает удобное время для записи безпроблем, Алия парикмахер мастер своего дела, ставлю 10 из 10 очень приятная и можно доверять свои волосы и отдыхать, респект, рекомендую всем",
+      "raw_text": "Жанар🌸 ‘ 15 отзывов 30 июля 2026 Самый любимый салон, прихожу и отдыхаю, Анара администратор всегда подбирает удобное время для записи безпроблем, Алия парикмахер мастер своего дела, ставлю 10 из 10 очень приятная и можно доверять свои волосы и отдыхать, респект, рекомендую всем Читать целиком Полезно?"
+    },
+    {
+      "author": "Tamer Salmenov",
+      "date": "12 сентября 2025",
+      "rating": "5",
+      "text": "Классный барбершоп, круто постригли и быстро, мастера все мастера своего дела))",
+      "raw_text": "TS Tamer Salmenov 27 отзывов 12 сентября 2025 Классный барбершоп, круто постригли и быстро, мастера все мастера своего дела)) 2 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "KH .",
+      "date": "15 августа 2025",
+      "rating": "5",
+      "text": "Спасибо Барберу Айгерим за профессиональную укладку 🙌🏼",
+      "raw_text": "KH . 15 отзывов 15 августа 2025 Спасибо Барберу Айгерим за профессиональную укладку 🙌🏼 2 посещения Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Zara Mayer",
+      "date": "9 сентября 2025",
+      "rating": "5",
+      "text": "Мастер ногтевого сервиса Акерке лучшая из лучших. 10 из 10",
+      "raw_text": "ZM Zara Mayer 3 отзыва 9 сентября 2025 Мастер ногтевого сервиса Акерке лучшая из лучших. 10 из 10 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Temirlan Oralov",
+      "date": "17 августа 2025",
+      "rating": "5",
+      "text": "Спасибо барберу Айгерим👍🏻",
+      "raw_text": "Temirlan Oralov 15 отзывов 17 августа 2025 Спасибо барберу Айгерим👍🏻 1 посещение Отзыв подтверждён Полезно?"
+    },
+    {
+      "author": "Almat Ab",
+      "date": "3 августа 2025",
+      "rating": "5",
+      "text": "Турегали мастер наивысшей категории, стригусь у него уже 15 лет",
+      "raw_text": "AA Almat Ab 5 отзывов 3 августа 2025 Турегали мастер наивысшей категории, стригусь у него уже 15 лет 1 посещение Отзыв подтверждён 2 Полезно?"
+    },
+    {
+      "author": "ATIM QZ",
+      "date": "30 июля 2025",
+      "rating": "5",
+      "text": "Ахмед спасибо большое классно постриг.",
+      "raw_text": "AQ ATIM QZ 55 отзывов 30 июля 2025 Ахмед спасибо большое классно постриг. 1 посещение Отзыв подтверждён 2 Полезно?"
+    },
+    {
+      "author": "Alken 7",
+      "date": "26 июля 2025",
+      "rating": "5",
+      "text": "Рахмет мастеру Бахтияру за отличную работу! Обращаюсь к нему уже не в первый раз и каждый раз остаюсь очень доволен результатом. Профессиональный подход, качественная стрижка и приятное обслуживание. Рекомендую всем!",
+      "raw_text": "A7 Alken 7 9 отзывов 26 июля 2025 Рахмет мастеру Бахтияру за отличную работу! Обращаюсь к нему уже не в первый раз и каждый раз остаюсь очень доволен результатом. Профессиональный подход, качественная стрижка и приятное обслуживание. Рекомендую всем! Читать целиком 1 посещение Отзыв подтверждён 2 Полезно?"
+    },
+    {
+      "author": "Zhambul Alishbaev",
+      "date": "21 июля 2025",
+      "rating": "5",
+      "text": "Большой рахмет за сервис, отдельное спасибо Айгерим, классно стрижет 👍",
+      "raw_text": "ZA Zhambul Alishbaev 7 отзывов 21 июля 2025 Большой рахмет за сервис, отдельное спасибо Айгерим, классно стрижет 👍 1 посещение Отзыв подтверждён 3 3 Полезно?"
+    },
+    {
+      "author": "Сауран Саматов",
+      "date": "10 июля 2025",
+      "rating": "5",
+      "text": "Көп көп рақмет сіздерге!!! Тек қана биіктерден көріне беріңіз!!!",
+      "raw_text": "СС Сауран Саматов 36 отзывов 10 июля 2025 Көп көп рақмет сіздерге!!! Тек қана биіктерден көріне беріңіз!!! 1 посещение Отзыв подтверждён 2 2 Полезно?"
+    },
+    {
+      "author": "Самат Бисембаев",
+      "date": "9 июля 2025",
+      "rating": "5",
+      "text": "Баха топ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️",
+      "raw_text": "СБ Самат Бисембаев 16 отзывов 9 июля 2025 Баха топ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ 1 посещение Отзыв подтверждён 3 1 Полезно?"
+    },
+    {
+      "author": "Рустем Умиров",
+      "date": "8 июля 2025",
+      "rating": "5",
+      "text": "Отличный сервис, Бахтияр - профи",
+      "raw_text": "Рустем Умиров 10 отзывов 8 июля 2025 Отличный сервис, Бахтияр - профи 1 посещение Отзыв подтверждён 2 1 Полезно?"
+    },
+    {
+      "author": "Margulan Shayahmetov",
+      "date": "8 июля 2025",
+      "rating": "5",
+      "text": "Админ и парикмахер стажер - респект",
+      "raw_text": "MS Margulan Shayahmetov 8 отзывов 8 июля 2025 Админ и парикмахер стажер - респект 1 посещение Отзыв подтверждён 2 1 Полезно?"
+    },
+    {
+      "author": "Talgat B",
+      "date": "5 июля 2025",
+      "rating": "5",
+      "text": "Сегодня был в барбершопе ЭСТЭ хочу выразить благодарность барберу Ағлану мастер своего дела✊✊ Обязательно приду ещё раз!",
+      "raw_text": "TB Talgat B 2 отзыва 5 июля 2025 Сегодня был в барбершопе ЭСТЭ хочу выразить благодарность барберу Ағлану мастер своего дела✊✊ Обязательно приду ещё раз! 1 посещение Отзыв подтверждён 2 Полезно?"
+    },
+    {
+      "author": "Асылхан Турманов",
+      "date": "4 июля 2025",
+      "rating": "5",
+      "text": "Ахмед респект ✊",
+      "raw_text": "АТ Асылхан Турманов 10 отзывов 4 июля 2025, изменён Ахмед респект ✊ 1 посещение Отзыв подтверждён 1 1 Полезно?"
+    },
+    {
+      "author": "Бексултан Абдисалим",
+      "date": "30 июня 2025",
+      "rating": "5",
+      "text": "Мастер Ахмет 👍🏻👍🏻👍🏻",
+      "raw_text": "БА Бексултан Абдисалим 7 отзывов 30 июня 2025 Мастер Ахмет 👍🏻👍🏻👍🏻 1 посещение Отзыв подтверждён 1 1 Полезно?"
+    },
+    {
+      "author": "City spirit",
+      "date": "25 июня 2025",
+      "rating": "5",
+      "text": "Айгерим, отличный мастер!",
+      "raw_text": "Cs City spirit 5 отзывов 25 июня 2025 Айгерим, отличный мастер! 1 посещение Отзыв подтверждён 1 1 Полезно?"
+    },
+    {
+      "author": "Arsen Mukhamejanov",
+      "date": "22 июня 2025",
+      "rating": "5",
+      "text": "Отличный барбер шоп. Отдельная благодарность мастеру Айгерим за хорошую стрижку и обслуживание.",
+      "raw_text": "AM Arsen Mukhamejanov 6 отзывов 22 июня 2025 Отличный барбер шоп. Отдельная благодарность мастеру Айгерим за хорошую стрижку и обслуживание. 1 посещение Отзыв подтверждён 1 1 Полезно?"
+    },
+    {
+      "author": "M Sabyrov",
+      "date": "21 июня 2025",
+      "rating": "5",
+      "text": "Аглан спасибо за стрижку лучшее просто👍👍👍👍👍",
+      "raw_text": "M Sabyrov 7 отзывов 21 июня 2025, изменён Аглан спасибо за стрижку лучшее просто👍👍👍👍👍 1 посещение Отзыв подтверждён 1 1 Полезно?"
+    },
+    {
+      "author": "R R",
+      "date": "21 июня 2025",
+      "rating": "5",
+      "text": "Аглан оте жаксы шаш алады маган унады! Шаштыда оте керемет бойяиды екен ! Жумысына четка карайды!",
+      "raw_text": "RR R R 3 отзыва 21 июня 2025 Аглан оте жаксы шаш алады маган унады! Шаштыда оте керемет бойяиды екен ! Жумысына четка карайды! 1 посещение Отзыв подтверждён 1 1 Полезно?"
+    },
+    {
+      "author": "Абай Абдулла",
+      "date": "20 июня 2025",
+      "rating": "5",
+      "text": "Бахтияр хорошо стрижёт, всем советую",
+      "raw_text": "АА Абай Абдулла 6 отзывов 20 июня 2025 Бахтияр хорошо стрижёт, всем советую 1 посещение Отзыв подтверждён 2 Полезно?"
+    },
+    {
+      "author": "Бекнур Тишбеков",
+      "date": "19 июня 2025",
+      "rating": "5",
+      "text": "Хочу выразить огромную благодарность барбершопу и особенно мастеру Айгерим! 🌟 Первый раз сегодня — и на сто процентов доволен. Айгерим — настоящий профессионал своего дела: внимательная, аккуратная, с хорошим вкусом и лёгкой рукой. Очень чётко чувствует, чего хочет клиент. Смело записывайтесь к Айгерим. Рекомендую на 100%! 🔥",
+      "raw_text": "БТ Бекнур Тишбеков 17 отзывов 19 июня 2025 Хочу выразить огромную благодарность барбершопу и особенно мастеру Айгерим! 🌟 Первый раз сегодня — и на сто процентов доволен. Айгерим — настоящий профессионал своего дела: внимательная, аккуратная, с хорошим вкусом и лёгкой рукой. Очень чётко чувствует, чего хочет клиент. Смело записывайтесь к Айгерим. Рекомендую на 100%! 🔥 Читать целиком 1 посещение Отзыв подтверждён 2 Полезно? EB Este Beauty, салон красоты 19 июня 2025, официальный ответ Спасибо вам за добрые слова 🙏 Будем ждать Вас снова!"
+    },
+    {
+      "author": "Шамшиддин Халикбердиев",
+      "date": "18 июня 2025",
+      "rating": "5",
+      "text": "Айгерим вам большое спасибо все отлична обслуживания все отлично все хорошо мне понравилась 👍👍",
+      "raw_text": "Шамшиддин Халикбердиев 7 отзывов 18 июня 2025 Айгерим вам большое спасибо все отлична обслуживания все отлично все хорошо мне понравилась 👍👍 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Лена Гущина",
+      "date": "17 июня 2025",
+      "rating": "5",
+      "text": "Посетили данный барбершоп, очень понравилось и сервис и качество! Хотелось сказать что будем посещать, но далеко т.к. мы из Челябинска.",
+      "raw_text": "Лена Гущина 3 отзыва 17 июня 2025 Посетили данный барбершоп, очень понравилось и сервис и качество! Хотелось сказать что будем посещать, но далеко т.к. мы из Челябинска. 1 посещение Отзыв подтверждён Полезно? EB Este Beauty, салон красоты 19 июня 2025, официальный ответ Добрый вечер, Лена, спасибо за ваш отзыв и оценку 🙏 Рады Вам 💛"
+    },
+    {
+      "author": "Витас Аугустайтис",
+      "date": "12 июня 2025",
+      "rating": "5",
+      "text": "Очень хороший барбершоп, мастер Айгерим супер, очень заботливая, аккуратная и мастер лучше всех. Был первый раз.",
+      "raw_text": "ВА Витас Аугустайтис 12 отзывов 12 июня 2025 Очень хороший барбершоп, мастер Айгерим супер, очень заботливая, аккуратная и мастер лучше всех. Был первый раз. 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 12 июня 2025, официальный ответ Здравствуйте, благодарим, что выбираете нас 💛 Ждём вас в гости снова 😉"
+    },
+    {
+      "author": "Madiyar Mustafa",
+      "date": "11 июня 2025",
+      "rating": "5",
+      "text": "Хочу выразить огромную благодарность мастеру - Айгерим из салона красоты \"ЭСТЭ\"! Это был мой первый визит к ней, и я остался в полном восторге. Айгерим – настоящий профессионал своего дела. С первых минут было видно, с каким трепетом и вниманием она относится к своей работе. Каждый её шаг был выверенным и точным. Она не просто стрижет, а создает образ, учитывая все пожелания. Очень прилежный и аккуратный мастер! Результат превзошел все мои ожидания. Однозначно рекомендую и теперь буду ходить только к ней!",
+      "raw_text": "Madiyar Mustafa 26 отзывов 11 июня 2025 Хочу выразить огромную благодарность мастеру - Айгерим из салона красоты \"ЭСТЭ\"! Это был мой первый визит к ней, и я остался в полном восторге. Айгерим – настоящий профессионал своего дела. С первых минут было видно, с каким трепетом и вниманием она относится к своей работе. Каждый её шаг был выверенным и точным. Она не просто стрижет, а создает образ, учитывая все пожелания. Очень прилежный и аккуратный мастер! Результат превзошел все мои ожидания. Однозначно рекомендую и теперь буду ходить только к ней! Читать целиком 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 12 июня 2025, официальный ответ Добрый день. Огромное спасибо, что выбрали нас ❤ Были рады Вамь 🙏🏼"
+    },
+    {
+      "author": "Мухтасип Коянбаев",
+      "date": "2 июня 2025",
+      "rating": "5",
+      "text": "Бахтияр барберге рахмет! Оз ісінің маманы! 👍",
+      "raw_text": "МК Мухтасип Коянбаев 3 отзыва 2 июня 2025 Бахтияр барберге рахмет! Оз ісінің маманы! 👍 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Meer S",
+      "date": "2 июня 2025",
+      "rating": "5",
+      "text": "Бахтияр мастер - хороший специалист",
+      "raw_text": "MS Meer S 23 отзыва 2 июня 2025 Бахтияр мастер - хороший специалист 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Турар Орынбеков",
+      "date": "30 мая 2025",
+      "rating": "5",
+      "text": "Все отлично мастер Бахтияр супер классно стрижет",
+      "raw_text": "Турар Орынбеков 3 отзыва 30 мая 2025 Все отлично мастер Бахтияр супер классно стрижет 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 30 мая 2025, официальный ответ Добрый вечер. Спасибо, Турар, за добрые слова! Нам очень приятно"
+    },
+    {
+      "author": "Mélsuly .",
+      "date": "28 мая 2025",
+      "rating": "5",
+      "text": "Айгерим барбер өте жақсы алады❤️",
+      "raw_text": "Mélsuly . 7 отзывов 28 мая 2025, изменён Айгерим барбер өте жақсы алады❤️ 1 посещение Отзыв подтверждён 2 Полезно? EB Este Beauty, салон красоты 30 мая 2025, официальный ответ Пікіріңізге көп рахмет! Бұл біз үшін өте маңызды."
+    },
+    {
+      "author": "Рустам Рустамов",
+      "date": "25 мая 2025",
+      "rating": "5",
+      "text": "Был у барбера Айгерим. Профессианал своего дела. Отличный сервис . Вернусь еще.",
+      "raw_text": "Рустам Рустамов 4 отзыва 25 мая 2025 Был у барбера Айгерим. Профессианал своего дела. Отличный сервис . Вернусь еще. 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Абылайхан Абсамат",
+      "date": "24 мая 2025",
+      "rating": "5",
+      "text": "Спасибо мастеру Айгерим, четко❤️",
+      "raw_text": "Абылайхан Абсамат 11 отзывов 24 мая 2025 Спасибо мастеру Айгерим, четко❤️ 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Rahat Shilmagambet",
+      "date": "23 мая 2025",
+      "rating": "5",
+      "text": "Записался на стрижку по совету знакомых. Быстро приняли бронь. Место отличное, сервис суперский. Особая благодарность Айгерим. Профессионал своего дела! Рекомендую данное место",
+      "raw_text": "RS Rahat Shilmagambet 23 отзыва 23 мая 2025 Записался на стрижку по совету знакомых. Быстро приняли бронь. Место отличное, сервис суперский. Особая благодарность Айгерим. Профессионал своего дела! Рекомендую данное место Читать целиком 1 посещение Отзыв подтверждён 2 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Здравствуйте! Большое спасибо за доверие 😉 Приходите к нам ещё!"
+    },
+    {
+      "author": "Нурсултан Тельманов",
+      "date": "22 мая 2025",
+      "rating": "5",
+      "text": "Я в первые постригся здесь у мастера Ахмеда, и скажу что это топовый барбер!) Мастер своего дела, а что самое прикольное очень грамотный и интересный собеседник!🔥 Администратор очень вежливая, атмосфера приятная) всем советую!🙏🏻 Лучший сервис👍🏻",
+      "raw_text": "Нурсултан Тельманов 40 отзывов 22 мая 2025 Я в первые постригся здесь у мастера Ахмеда, и скажу что это топовый барбер!) Мастер своего дела, а что самое прикольное очень грамотный и интересный собеседник!🔥 Администратор очень вежливая, атмосфера приятная) всем советую!🙏🏻 Лучший сервис👍🏻 Читать целиком 1 посещение Отзыв подтверждён 2 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Здравствуйте, Нурсултан, благодарим вас за такой приятный отзыв! Всегда рады помочь 🤝"
+    },
+    {
+      "author": "S S",
+      "date": "21 мая 2025",
+      "rating": "5",
+      "text": "Заходил на разведку. Попал на акцию. Всё вежливо, культурно. Результатом доволен",
+      "raw_text": "SS S S 11 отзывов 21 мая 2025, изменён Заходил на разведку. Попал на акцию. Всё вежливо, культурно. Результатом доволен 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 22 мая 2025, официальный ответ Anton, здравствуйте! Спасибо за отзыв! Приходите ещё 🙏🏼"
+    },
+    {
+      "author": "Isatay Sadirov",
+      "date": "18 мая 2025",
+      "rating": "5",
+      "text": "Спасибо барберам которые сделали мой день намного лучше. Отдельно спасибо Агылану сделал свою работу на вышем уровне. Забегу обязательно",
+      "raw_text": "Isatay Sadirov 19 отзывов 18 мая 2025, изменён Спасибо барберам которые сделали мой день намного лучше. Отдельно спасибо Агылану сделал свою работу на вышем уровне. Забегу обязательно 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Добрый день! Спасибо большое за отзыв 🙏 Приходите в гости ещё ❤"
+    },
+    {
+      "author": "Jorde Cuera",
+      "date": "18 мая 2025",
+      "rating": "5",
+      "text": "Спасибо мастеру Айгерим, все быстро и чётко!",
+      "raw_text": "JC Jorde Cuera 9 отзывов 18 мая 2025 Спасибо мастеру Айгерим, все быстро и чётко! 1 посещение Отзыв подтверждён 4 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Jorde, добрый день, благодарим за добрые слова 🙏 Приходите, будем рады вас видеть 💛"
+    },
+    {
+      "author": "Adilet Saparbek",
+      "date": "6 мая 2025",
+      "rating": "5",
+      "text": "Скажу так, мне всегда было все равно где стричься, а теперь, когда знаю, что могу непросто смотреться в зеркало, а хорошо провести время, беседуя, в каких-то моментах открывать для себя что-то новое, где-то получить жизненный опыт… это место, действительно, притягивает. Рахмет Вам, Төреғали!",
+      "raw_text": "AS Adilet Saparbek 10 отзывов 6 мая 2025 Скажу так, мне всегда было все равно где стричься, а теперь, когда знаю, что могу непросто смотреться в зеркало, а хорошо провести время, беседуя, в каких-то моментах открывать для себя что-то новое, где-то получить жизненный опыт… это место, действительно, притягивает. Рахмет Вам, Төреғали! Читать целиком 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Adilet, добрый день! Спасибо большое за теплые слова! Были рады помочь!"
+    },
+    {
+      "author": "Abilkassym Yessentayev",
+      "date": "12 апреля 2025",
+      "rating": "5",
+      "text": "Шашымды Ақұлан деген жігітке қидырдым. Ұқыпты алады екен👍",
+      "raw_text": "Abilkassym Yessentayev 4 отзыва 12 апреля 2025, изменён Шашымды Ақұлан деген жігітке қидырдым. Ұқыпты алады екен👍 1 посещение Отзыв подтверждён 2 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Пікіріңізге көп рахмет! Біз сізді қайтадан көруге қуаныштымыз 😉"
+    },
+    {
+      "author": "Жан Садвакасов",
+      "date": "2 апреля 2025",
+      "rating": "5",
+      "text": "Уже во второй раз у Ахмеда , отлично стрижет. Рекомендую 🙌",
+      "raw_text": "Жан Садвакасов 12 отзывов 2 апреля 2025 Уже во второй раз у Ахмеда , отлично стрижет. Рекомендую 🙌 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 2 апреля 2025, официальный ответ Рады стараться для Вас!"
+    },
+    {
+      "author": "Султан Маратов",
+      "date": "29 марта 2025",
+      "rating": "5",
+      "text": "Аглан мастер своего дела,знает как правильно стричь👍",
+      "raw_text": "СМ Султан Маратов 20 отзывов 29 марта 2025, изменён Аглан мастер своего дела,знает как правильно стричь👍 1 посещение Отзыв подтверждён 1 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Добрый вечер. Огромное спасибо за ваш отзыв! Приходите в гости ещё!"
+    },
+    {
+      "author": "Art Saf",
+      "date": "17 марта 2025",
+      "rating": "5",
+      "text": "Классный барбершоп! Арлан отличный мастер! Рекомендую!",
+      "raw_text": "AS Art Saf 13 отзывов 17 марта 2025 Классный барбершоп! Арлан отличный мастер! Рекомендую! 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Акылбек Есенбаев",
+      "date": "10 марта 2025",
+      "rating": "5",
+      "text": "Отличная локация. Хорошие мастера. Особая благодарность баберу Торегали. Уже как полгода постригаемся тут с сыном!Рекомендую к посещению!",
+      "raw_text": "АЕ Акылбек Есенбаев 12 отзывов 10 марта 2025 Отличная локация. Хорошие мастера. Особая благодарность баберу Торегали. Уже как полгода постригаемся тут с сыном!Рекомендую к посещению! 1 посещение Отзыв подтверждён 1 Полезно?"
+    },
+    {
+      "author": "Tairlan Kairolla",
+      "date": "4 июля 2026",
+      "rating": "5",
+      "text": "Отличное место! Мастер Азамат прекрасно справляется со своей работой!",
+      "raw_text": "TK Tairlan Kairolla 6 отзывов 4 июля 2026 Отличное место! Мастер Азамат прекрасно справляется со своей работой! Полезно?"
+    },
+    {
+      "author": "Нуржан Сактаганов",
+      "date": "1 июля 2026",
+      "rating": "5",
+      "text": "Всё понравилось, мастеру Аглану спасибо!",
+      "raw_text": "НС Нуржан Сактаганов 16 отзывов 1 июля 2026, изменён Всё понравилось, мастеру Аглану спасибо! Полезно?"
+    },
+    {
+      "author": "Aliya Amangeldiqyzy",
+      "date": "29 июня 2026",
+      "rating": "5",
+      "text": "Гүлмира ханым сыпайы, жұмысын өте ұқыпты жасайды, шашымды әдемі етіп қиып берді ❤️",
+      "raw_text": "AA Aliya Amangeldiqyzy 1 отзыв 29 июня 2026 Гүлмира ханым сыпайы, жұмысын өте ұқыпты жасайды, шашымды әдемі етіп қиып берді ❤️ Полезно?"
+    },
+    {
+      "author": "Сауле Аманбаева",
+      "date": "2 июня 2026",
+      "rating": "5",
+      "text": "Доброго времени суток! Сегодня посетила данный салон, очень все понравилось. Запись онлайн, сразу видно когда и к какому мастеру можешь попасть, что очень экономит время. Мастер Алия,грамотный специалист, подсказала, рассказала. Рекомендую. Спасибо большое 🌺",
+      "raw_text": "СА Сауле Аманбаева 4 отзыва 2 июня 2026 Доброго времени суток! Сегодня посетила данный салон, очень все понравилось. Запись онлайн, сразу видно когда и к какому мастеру можешь попасть, что очень экономит время. Мастер Алия,грамотный специалист, подсказала, рассказала. Рекомендую. Спасибо большое 🌺 Читать целиком Полезно?"
+    },
+    {
+      "author": "Tomiris Tomiris",
+      "date": "8 мая 2026",
+      "rating": "5",
+      "text": "В восторге от каскада! Спасибо мастеру Алие за ее красивую работу. Девочки, всем рекомендую записываться на стрижку именно в этот салон, именно к Алие) Вышла оттуда с отличным настроением 🥰 1",
+      "raw_text": "TT Tomiris Tomiris 9 отзывов 8 мая 2026 В восторге от каскада! Спасибо мастеру Алие за ее красивую работу. Девочки, всем рекомендую записываться на стрижку именно в этот салон, именно к Алие) Вышла оттуда с отличным настроением 🥰 Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "T4YLORY <3",
+      "date": "12 апреля 2026",
+      "rating": "5",
+      "text": "в целом место довольно простое, бюджетное, искреннее. видно, что люди стараются. администратор вовлечён, мастера работают, пытаются создать хоть какой-то уют. это чувствуется и оставляет скорее нейтрально-положительное впечатление. из минусов: в помещении есть сырой запах, как будто после влажной уборки, возможно, стоит обратить на это внимание, потому что это сразу влияет на общее восприятие. но больше всего смутило другое. сложилось ощущение, что в процессе работы стоимость может «плавать». в первый визит появились дополнительные позиции, за которые пришлось доплатить. во второй раз, когда уже хотела вернуться, вместо понятной и прозрачной цены начали снова добавляться какие-то доплаты и рекомендации, из-за чего итоговая стоимость стала выше ожидаемой. в какой-то момент возникает ощущение, что на тебе пытаются заработать больше, чем изначально озвучено. это не критично, но именно это и отталкивает. когда приходишь за понятной услугой, хочется такой же понятной и честной цены. в итоге осталось двоякое впечатление: с одной стороны— простое место с людьми, которые стараются, с другой— ощущение не до конца прозрачного подхода к клиенту. из-за этого возвращаться уже не хочется. желаю вам успехов.",
+      "raw_text": "T4YLORY <3 26 отзывов 12 апреля 2026 в целом место довольно простое, бюджетное, искреннее. видно, что люди стараются. администратор вовлечён, мастера работают, пытаются создать хоть какой-то уют. это чувствуется и оставляет скорее нейтрально-положительное впечатление. из минусов: в помещении есть сырой запах, как будто после влажной уборки, возможно, стоит обратить на это внимание, потому что это сразу влияет на общее восприятие. но больше всего смутило другое. сложилось ощущение, что в процессе работы стоимость может «плавать». в первый визит появились дополнительные позиции, за которые пришлось доплатить. во второй раз, когда уже хотела вернуться, вместо понятной и прозрачной цены начали снова добавляться какие-то доплаты и рекомендации, из-за чего итоговая стоимость стала выше ожидаемой. в какой-то момент возникает ощущение, что на тебе пытаются заработать больше, чем изначально озвучено. это не критично, но именно это и отталкивает. когда приходишь за понятной услугой, хочется такой же понятной и честной цены. в итоге осталось двоякое впечатление: с одной стороны— простое место с людьми, которые стараются, с другой— ощущение не до конца прозрачного подхода к клиенту. из-за этого возвращаться уже не хочется. желаю вам успехов. Читать целиком Полезно?"
+    },
+    {
+      "author": "Бахшагул Алимбетова",
+      "date": "10 апреля 2026",
+      "rating": "5",
+      "text": "Сегодня сделала коррекцию бровей у мастера Айжан.понравилось. очень приятный вежливый милый мастер. Бровки очень понравились. Благодарю ее за прекрасную работу.",
+      "raw_text": "БА Бахшагул Алимбетова 5 отзывов 10 апреля 2026 Сегодня сделала коррекцию бровей у мастера Айжан.понравилось. очень приятный вежливый милый мастер. Бровки очень понравились. Благодарю ее за прекрасную работу. Читать целиком Полезно?"
+    },
+    {
+      "author": "Кристина Райсвих",
+      "date": "8 апреля 2026",
+      "rating": "5",
+      "text": "Мастер маникюра и подолог Елена топ. Все четко делает, грамотная, легкая, доброжелательная, приветливая, клиентоориентированная. Работу делает прекрасно и профессионально. Спасибо. Отделанная благодарность администратору. Очень нравится приходить в ваш салон, все очень душевно и сервис на высоте. 1",
+      "raw_text": "Кристина Райсвих 22 отзыва 8 апреля 2026 Мастер маникюра и подолог Елена топ. Все четко делает, грамотная, легкая, доброжелательная, приветливая, клиентоориентированная. Работу делает прекрасно и профессионально. Спасибо. Отделанная благодарность администратору. Очень нравится приходить в ваш салон, все очень душевно и сервис на высоте. Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Анна Стретович",
+      "date": "8 апреля 2026",
+      "rating": "5",
+      "text": "Хочу выразить благодарность мастеру Алия: красиво уложила волосы и самое главное - быстро. Отличный салон, рекомендую! 1",
+      "raw_text": "АС Анна Стретович 5 отзывов 8 апреля 2026 Хочу выразить благодарность мастеру Алия: красиво уложила волосы и самое главное - быстро. Отличный салон, рекомендую! 1 Полезно?"
+    },
+    {
+      "author": "Елизавета Фортунатова",
+      "date": "28 февраля 2026",
+      "rating": "5",
+      "text": "Была на покраске у Екатерины, осталась очень довольна Процедура проведена аккуратно, окрашиванием очень довольна, как раз перед мероприятием пошла 👍🏻",
+      "raw_text": "Елизавета Фортунатова 17 отзывов 28 февраля 2026 Была на покраске у Екатерины, осталась очень довольна Процедура проведена аккуратно, окрашиванием очень довольна, как раз перед мероприятием пошла 👍🏻 Читать целиком Полезно?"
+    },
+    {
+      "author": "Dana Kuderova",
+      "date": "26 декабря 2025",
+      "rating": "5",
+      "text": "Спасибо мастеру по ресницам Айжан 🙏🏻 Хожу уже год Ресницы очень красивые, хорошо держатся 👍🏻 Рекомендую 💪🏼 1",
+      "raw_text": "Dana Kuderova 2 отзыва 26 декабря 2025 Спасибо мастеру по ресницам Айжан 🙏🏻 Хожу уже год Ресницы очень красивые, хорошо держатся 👍🏻 Рекомендую 💪🏼 1 Полезно?"
+    },
+    {
+      "author": "…. ….",
+      "date": "25 августа 2025",
+      "rating": "5",
+      "text": "Очень плохо стрегут 🤢🤮🤮🤢🤢🤢",
+      "raw_text": "…. …. 15 отзывов 25 августа 2025, изменён Очень плохо стрегут 🤢🤮🤮🤢🤢🤢 1 посещение Отзыв подтверждён Полезно? EB Este Beauty, салон красоты 25 августа 2025, официальный ответ Здравствуйте! Вы когда были у нас ? И у какого мастера? Все комментарии"
+    },
+    {
+      "author": "Сара Акимгалиева",
+      "date": "5 февраля 2026",
+      "rating": "5",
+      "text": "Сегодня была в шоке ужасный салон красоты!! С только времени потеряла, была записана на 16:00 , после просили приехать к 17:00 якобы мастер не успевает, отняли время и нервы, записана была мастеру Алия 😕 женщина грубая, при мытья мои волосы начала дергать, на замечание!! Реагирует и начала мне высказывать свои недовольство, чтобы я молчала!! Отношение клиентам ужас, Администратор женщина взрослая не может ничего решит , с мокрой головой пришлос уйти, на просьбу высушить волосы не реагировали, это женщина ведет себя по хамскии ругалась со мной, перед другими людьми, не советую всем, 🤦‍♀🤦‍♀🤦‍♀ но я везде напишу отзыв про ваш салон красоты, шарашкина контора называется! 1",
+      "raw_text": "СА Сара Акимгалиева 4 отзыва 5 февраля 2026 Сегодня была в шоке ужасный салон красоты!! С только времени потеряла, была записана на 16:00 , после просили приехать к 17:00 якобы мастер не успевает, отняли время и нервы, записана была мастеру Алия 😕 женщина грубая, при мытья мои волосы начала дергать, на замечание!! Реагирует и начала мне высказывать свои недовольство, чтобы я молчала!! Отношение клиентам ужас, Администратор женщина взрослая не может ничего решит , с мокрой головой пришлос уйти, на просьбу высушить волосы не реагировали, это женщина ведет себя по хамскии ругалась со мной, перед другими людьми, не советую всем, 🤦‍♀🤦‍♀🤦‍♀ но я везде напишу отзыв про ваш салон красоты, шарашкина контора называется! Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Алма Абулхаирова",
+      "date": "19 февраля 2026",
+      "rating": "5",
+      "text": "Здравствуйте!15 февраля мне укладку делала мастер Гульмира,макияж делала мастер Асия.Хочу поблагодарить их за хорошее обслуживание",
+      "raw_text": "АА Алма Абулхаирова 1 отзыв 19 февраля 2026 Здравствуйте!15 февраля мне укладку делала мастер Гульмира,макияж делала мастер Асия.Хочу поблагодарить их за хорошее обслуживание Полезно?"
+    },
+    {
+      "author": "Aniya Yelzhassova",
+      "date": "8 февраля 2026",
+      "rating": "5",
+      "text": "Хожу к мастеру Айжан на наращивание ресниц, очень крутой мастер, всем советую, делает качественно, очень приятная, вежливая и красивая девушка✅",
+      "raw_text": "AY Aniya Yelzhassova 11 отзывов 8 февраля 2026 Хожу к мастеру Айжан на наращивание ресниц, очень крутой мастер, всем советую, делает качественно, очень приятная, вежливая и красивая девушка✅ Полезно?"
+    },
+    {
+      "author": "Настья Пак",
+      "date": "30 января 2026",
+      "rating": "5",
+      "text": "Очень классный салон, была на маникюре у мастера Елены. Делает очень аккуратно, всё чисто и профессионально. Осталась очень довольна результатом, обязательно приду ещё",
+      "raw_text": "НП Настья Пак 5 отзывов 30 января 2026 Очень классный салон, была на маникюре у мастера Елены. Делает очень аккуратно, всё чисто и профессионально. Осталась очень довольна результатом, обязательно приду ещё Читать целиком Полезно?"
+    },
+    {
+      "author": "Рустем Шулахов",
+      "date": "27 декабря 2025",
+      "rating": "5",
+      "text": "Айжан квалифицированный и опытный специалист #1. Всем рекомендую, не пожалеете. Очень приветливая и внимательная к работе. Любит свое дело и вкладывает душу в работу. Супруга и многие знакомые ходят к ней, все довольны. Всех с наступающим, мира, добра и терпения всем желаю!!!!",
+      "raw_text": "РШ Рустем Шулахов 8 отзывов 27 декабря 2025 Айжан квалифицированный и опытный специалист #1. Всем рекомендую, не пожалеете. Очень приветливая и внимательная к работе. Любит свое дело и вкладывает душу в работу. Супруга и многие знакомые ходят к ней, все довольны. Всех с наступающим, мира, добра и терпения всем желаю!!!! Читать целиком Полезно?"
+    },
+    {
+      "author": "Жанка",
+      "date": "27 декабря 2025",
+      "rating": "5",
+      "text": "Lashmaker Айжанға үлкен рақмет! Жұмысын тиянақты жасайды! Өте сыпайы , сымбатты қыз! Алғысым шексіз ! Мастер номер 1 ❤️ Рекомендую всем 🔥",
+      "raw_text": "Ж Жанка 12 отзывов 27 декабря 2025, изменён Lashmaker Айжанға үлкен рақмет! Жұмысын тиянақты жасайды! Өте сыпайы , сымбатты қыз! Алғысым шексіз ! Мастер номер 1 ❤️ Рекомендую всем 🔥 Полезно?"
+    },
+    {
+      "author": "Мадина Умбеталиева",
+      "date": "26 декабря 2025",
+      "rating": "5",
+      "text": "Хочу поблагодарить мастера Айжан за отличную работу! Наращивание ресниц прошло комфортно, мастер очень аккуратная и внимательная. Ресницы выглядят красиво и ухоженно, держатся хорошо. В салоне приятная атмосфера, обязательно буду рекомендовать Айжан своим знакомым 💖",
+      "raw_text": "МУ Мадина Умбеталиева 3 отзыва 26 декабря 2025 Хочу поблагодарить мастера Айжан за отличную работу! Наращивание ресниц прошло комфортно, мастер очень аккуратная и внимательная. Ресницы выглядят красиво и ухоженно, держатся хорошо. В салоне приятная атмосфера, обязательно буду рекомендовать Айжан своим знакомым 💖 Читать целиком Полезно?"
+    },
+    {
+      "author": "Dinara Dinara",
+      "date": "26 декабря 2025",
+      "rating": "5",
+      "text": "Самый классный мастер по наращиванию ресниц Айжан !!!! Хожу к ней уже полгода, все нравится, стерильно, материалы качественные. Профессионал своего дела, знает что подобрать, какой изгиб, длины. Супер мастер, всегда хожу к Айжан с удовольствием 😘😍 1",
+      "raw_text": "DD Dinara Dinara 4 отзыва 26 декабря 2025 Самый классный мастер по наращиванию ресниц Айжан !!!! Хожу к ней уже полгода, все нравится, стерильно, материалы качественные. Профессионал своего дела, знает что подобрать, какой изгиб, длины. Супер мастер, всегда хожу к Айжан с удовольствием 😘😍 Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Улдана Карабауова",
+      "date": "26 декабря 2025",
+      "rating": "5",
+      "text": "Айжан — ТОП-1 мастер по наращиванию ресниц. Результат держится долго, качество отличное. Очень приятная и красивая девушка. С наступающим Новым годом всех мастеров салона!",
+      "raw_text": "УК Улдана Карабауова 16 отзывов 26 декабря 2025 Айжан — ТОП-1 мастер по наращиванию ресниц. Результат держится долго, качество отличное. Очень приятная и красивая девушка. С наступающим Новым годом всех мастеров салона! Читать целиком Полезно?"
+    },
+    {
+      "author": "Юрий Н",
+      "date": "31 августа 2025",
+      "rating": "5",
+      "text": "Спасибо Барберу Екатерине за профи стрижку. Заведение приятное. Только трудно найти было так как в арке вход. 1",
+      "raw_text": "ЮН Юрий Н 3 отзыва 31 августа 2025 Спасибо Барберу Екатерине за профи стрижку. Заведение приятное. Только трудно найти было так как в арке вход. 1 Полезно?"
+    },
+    {
+      "author": "Ерлан Азамат",
+      "date": "6 августа 2025",
+      "rating": "5",
+      "text": "Мастер Жандос топ !!! 🔥 🔥 🔥 Все прошло на высшем уровне!!! Всем советую, обязательно только к нему !!! 1",
+      "raw_text": "ЕА Ерлан Азамат 7 отзывов 6 августа 2025 Мастер Жандос топ !!! 🔥 🔥 🔥 Все прошло на высшем уровне!!! Всем советую, обязательно только к нему !!! 1 Полезно?"
+    },
+    {
+      "author": "Alimzhan Svambaev",
+      "date": "8 июля 2025",
+      "rating": "5",
+      "text": "Мастеру Гуле огромное спасибо за ее профессионализм! 2 1",
+      "raw_text": "AS Alimzhan Svambaev 26 отзывов 8 июля 2025 Мастеру Гуле огромное спасибо за ее профессионализм! 2 1 Полезно?"
+    },
+    {
+      "author": "Саша Баронов",
+      "date": "18 мая 2025",
+      "rating": "5",
+      "text": "Сегодня впервые посетили этот барбершоп, и стриглись у мастера Бахтияра. Хотим выразить особую благодарность за его профессионализм, и индивидуальный подход. Бахтияр не только сделал отличную, и аккуратную стрижку сыну, но и смог легко найти с ним общий язык, расположить к себе. Ребёнок остался доволен, а это лучший показатель! Мы тоже в полном восторге. Всё прошло на высшем уровне. Рекомендуем мастера Бахтияра от всей души! За фото просим прощения. 2",
+      "raw_text": "СБ Саша Баронов 13 отзывов 18 мая 2025 Сегодня впервые посетили этот барбершоп, и стриглись у мастера Бахтияра. Хотим выразить особую благодарность за его профессионализм, и индивидуальный подход. Бахтияр не только сделал отличную, и аккуратную стрижку сыну, но и смог легко найти с ним общий язык, расположить к себе. Ребёнок остался доволен, а это лучший показатель! Мы тоже в полном восторге. Всё прошло на высшем уровне. Рекомендуем мастера Бахтияра от всей души! За фото просим прощения. Читать целиком 2 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Спасибо Александр за доверие 🔥 Очень приятно, рады Вам!"
+    },
+    {
+      "author": "Адгоз Исмлиева",
+      "date": "13 февраля 2026",
+      "rating": "5",
+      "text": "Я осталась не очень довольна так как делала окрашивание ,волосы испорчены, но укладка была неплохая",
+      "raw_text": "Адгоз Исмлиева 1 отзыв 13 февраля 2026 Я осталась не очень довольна так как делала окрашивание ,волосы испорчены, но укладка была неплохая Полезно?"
+    },
+    {
+      "author": "Astana Star",
+      "date": "30 января 2026",
+      "rating": "5",
+      "text": "Хорошая парикмахерская",
+      "raw_text": "AS Astana Star 32 отзыва 30 января 2026 Хорошая парикмахерская Полезно?"
+    },
+    {
+      "author": "Design Master",
+      "date": "20 января 2026",
+      "rating": "5",
+      "text": "Хорошая парикмахерская 1",
+      "raw_text": "Design Master 45 отзывов 20 января 2026 Хорошая парикмахерская 1 Полезно?"
+    },
+    {
+      "author": "Джентельмен",
+      "date": "11 декабря 2025",
+      "rating": "5",
+      "text": "Все классно! 1",
+      "raw_text": "Джентельмен 27 отзывов 11 декабря 2025 Все классно! 1 Полезно?"
+    },
+    {
+      "author": "Динар Динахметов",
+      "date": "2 октября 2025",
+      "rating": "5",
+      "text": "Все супер !!! Төке көп көп рахмет!!!",
+      "raw_text": "Динар Динахметов 1 отзыв 2 октября 2025 Все супер !!! Төке көп көп рахмет!!! Полезно?"
+    },
+    {
+      "author": "Bookich",
+      "date": "27 марта 2025",
+      "rating": "5",
+      "text": "Занимаются обманом! Нет желания туда идти, сами запустили акцию и сами же на ходу придумывают! Это же ребенок, тем более без мойки. Кошмар. Настоящая дилемма постричь волосы,нашли по отзывам. Ужас просто, испортили все впечатление ещё до прихода. Клиентоориентированности ноль 2",
+      "raw_text": "B Bookich 27 отзывов 27 марта 2025 Занимаются обманом! Нет желания туда идти, сами запустили акцию и сами же на ходу придумывают! Это же ребенок, тем более без мойки. Кошмар. Настоящая дилемма постричь волосы,нашли по отзывам. Ужас просто, испортили все впечатление ещё до прихода. Клиентоориентированности ноль Читать целиком 2 Полезно?"
+    },
+    {
+      "author": "altynbek karibzhanov",
+      "date": "31 января 2026",
+      "rating": "5",
+      "text": "Постригли мне волосы максимально уродскую и примитивную и цена не обоснованно высокая 3500тг",
+      "raw_text": "ak altynbek karibzhanov 3 отзыва 31 января 2026 Постригли мне волосы максимально уродскую и примитивную и цена не обоснованно высокая 3500тг Полезно?"
+    },
+    {
+      "author": "Umo Spart",
+      "date": "4 сентября 2025",
+      "rating": "5",
+      "text": "Хороший салон, хороший сервис! Мастер Бахтияр- Топ! Спасибо!",
+      "raw_text": "Umo Spart 3 отзыва 4 сентября 2025 Хороший салон, хороший сервис! Мастер Бахтияр- Топ! Спасибо! Полезно?"
+    },
+    {
+      "author": "Акмейр Сабржан",
+      "date": "14 августа 2025",
+      "rating": "5",
+      "text": "Гульнара лучший мастер👍 подобрала хорошую стрижку. Золотые руки много комплиментов взяла спасибо большое👍",
+      "raw_text": "Акмейр Сабржан 8 отзывов 14 августа 2025, изменён Гульнара лучший мастер👍 подобрала хорошую стрижку. Золотые руки много комплиментов взяла спасибо большое👍 Полезно?"
+    },
+    {
+      "author": "Sanzhar",
+      "date": "9 августа 2025",
+      "rating": "5",
+      "text": "Бахтияр хороший мастер. Профессионал своего дела",
+      "raw_text": "S Sanzhar 2 отзыва 9 августа 2025, изменён Бахтияр хороший мастер. Профессионал своего дела Полезно?"
+    },
+    {
+      "author": "Ast Doyt",
+      "date": "7 августа 2025",
+      "rating": "5",
+      "text": "Выбирайте Айгерим!",
+      "raw_text": "AD Ast Doyt 17 отзывов 7 августа 2025 Выбирайте Айгерим! Полезно?"
+    },
+    {
+      "author": "Жунусбек Калиев",
+      "date": "3 августа 2025",
+      "rating": "5",
+      "text": "Был на стрижке у мастера Аглан. Доволен стрижкой. Рекомендую! 2",
+      "raw_text": "ЖК Жунусбек Калиев 13 отзывов 3 августа 2025 Был на стрижке у мастера Аглан. Доволен стрижкой. Рекомендую! 2 Полезно?"
+    },
+    {
+      "author": "Максат Есжанов",
+      "date": "25 июля 2025",
+      "rating": "5",
+      "text": "Мастер Айгерим люто рекомендую👍 2",
+      "raw_text": "МЕ Максат Есжанов 2 отзыва 25 июля 2025 Мастер Айгерим люто рекомендую👍 2 Полезно?"
+    },
+    {
+      "author": "Apple User",
+      "date": "6 июля 2025",
+      "rating": "5",
+      "text": "Спасибо мастеру Айгерим) Быстро, классно) привет с России ) 2 1",
+      "raw_text": "AU Apple User 3 отзыва 6 июля 2025, изменён Спасибо мастеру Айгерим) Быстро, классно) привет с России ) 2 1 Полезно?"
+    },
+    {
+      "author": "Dauren Dairabayev",
+      "date": "3 июля 2025",
+      "rating": "5",
+      "text": "Айгерим супер! 1 1",
+      "raw_text": "DD Dauren Dairabayev 4 отзыва 3 июля 2025 Айгерим супер! 1 1 Полезно?"
+    },
+    {
+      "author": "Ermek Murzabayev",
+      "date": "27 июня 2025",
+      "rating": "5",
+      "text": "Подстригся сегодня у мастера Айгерим, очень понравилось ее внимание и качество стрижки! Сразу видно что она профессионал, любящий свое дело! Всем мужчинам рекомендую смело к ней на стрижку👍👍👍! 1 1",
+      "raw_text": "EM Ermek Murzabayev 9 отзывов 27 июня 2025 Подстригся сегодня у мастера Айгерим, очень понравилось ее внимание и качество стрижки! Сразу видно что она профессионал, любящий свое дело! Всем мужчинам рекомендую смело к ней на стрижку👍👍👍! Читать целиком 1 1 Полезно?"
+    },
+    {
+      "author": "Азат Zhumabekov",
+      "date": "12 июня 2025",
+      "rating": "5",
+      "text": "Благодарю мастера Айгерим за проделанную работу,как я хотел) профессионально,быстро,аккуратно🫶🏻🫠 1",
+      "raw_text": "АZ Азат Zhumabekov 6 отзывов 12 июня 2025 Благодарю мастера Айгерим за проделанную работу,как я хотел) профессионально,быстро,аккуратно🫶🏻🫠 1 Полезно?"
+    },
+    {
+      "author": "LAKSHmi LAKSH",
+      "date": "2 июня 2025",
+      "rating": "5",
+      "text": "Первый раз воспользовался услугами ЭСТЭ барбершоп. Был у Мастера Бахтияра. на первый взгляд расположил к себе внимание. Уточнил предпочтения к стрижки. Довольно общительный и разносторонний человек. Выполнил свою работу аккуратно, в рамках установленного времени. Результатом остался доволен. Рекомендую ЭСТЭ барбершоп. 2",
+      "raw_text": "LAKSHmi LAKSH 7 отзывов 2 июня 2025 Первый раз воспользовался услугами ЭСТЭ барбершоп. Был у Мастера Бахтияра. на первый взгляд расположил к себе внимание. Уточнил предпочтения к стрижки. Довольно общительный и разносторонний человек. Выполнил свою работу аккуратно, в рамках установленного времени. Результатом остался доволен. Рекомендую ЭСТЭ барбершоп. Читать целиком 2 Полезно?"
+    },
+    {
+      "author": "Асылулан Байкенжин",
+      "date": "30 мая 2025",
+      "rating": "5",
+      "text": "Там работает Баха, то есть Бахтияр он топ Барбер, интересно с ним поговорить на разные темы и эти темы как будто медицинская тайна, стрижёт превосходно, восхищён тем как он изменил мне образ и стиль, был простым и после стрижки стал выглядеть как будто в списке форпс, к сожалению ощущение было чуть по другому, как будто форпс не был меня достоин! 1",
+      "raw_text": "АБ Асылулан Байкенжин 24 отзыва 30 мая 2025 Там работает Баха, то есть Бахтияр он топ Барбер, интересно с ним поговорить на разные темы и эти темы как будто медицинская тайна, стрижёт превосходно, восхищён тем как он изменил мне образ и стиль, был простым и после стрижки стал выглядеть как будто в списке форпс, к сожалению ощущение было чуть по другому, как будто форпс не был меня достоин! Читать целиком 1 Полезно? EB Este Beauty, салон красоты 30 мая 2025, официальный ответ 😂Спасибо за ваш крутой отзыв! Бахтияр на самом деле очень интересный собеседник и мастер высшего пи…"
+    },
+    {
+      "author": "Айсултан Наметов",
+      "date": "5 мая 2025",
+      "rating": "5",
+      "text": "Постоянный клиент Барберы профессионалы Очень нравится Молодцы 1",
+      "raw_text": "Айсултан Наметов 8 отзывов 5 мая 2025 Постоянный клиент Барберы профессионалы Очень нравится Молодцы 1 Полезно? EB Este Beauty, салон красоты 6 мая 2025, официальный ответ Спасибо! Рады Вам всегда!"
+    },
+    {
+      "author": "Нурлат Жанбеков",
+      "date": "30 марта 2025",
+      "rating": "5",
+      "text": "Ахмед как всегда ТОП Высший уровень 🔥🔥🔥 1",
+      "raw_text": "НЖ Нурлат Жанбеков 7 отзывов 30 марта 2025 Ахмед как всегда ТОП Высший уровень 🔥🔥🔥 1 Полезно?"
+    },
+    {
+      "author": "Sultanbek Kaziyev",
+      "date": "30 марта 2025",
+      "rating": "5",
+      "text": "Был в барбершопе впервые, и остался в полном восторге! Стригся у мастера Аглана — и, честно говоря, впервые на моей памяти я настолько доволен работой барбера. Аглан — настоящий профессионал: всё сделал аккуратно, учёл мои пожелания. Теперь знаю, куда буду возвращаться! 2",
+      "raw_text": "SK Sultanbek Kaziyev 4 отзыва 30 марта 2025 Был в барбершопе впервые, и остался в полном восторге! Стригся у мастера Аглана — и, честно говоря, впервые на моей памяти я настолько доволен работой барбера. Аглан — настоящий профессионал: всё сделал аккуратно, учёл мои пожелания. Теперь знаю, куда буду возвращаться! Читать целиком 2 Полезно? EB Este Beauty, салон красоты 23 мая 2025, официальный ответ Sultanbek. Спасибо большое за добрые слова о нашей работе 😉 Приходите к нам ещё."
+    },
+    {
+      "author": "Батыр Тортаев",
+      "date": "18 января 2025",
+      "rating": "5",
+      "text": "Хочу поблагодарить мастера Торегали из барбершопа за отличную работу! Он действительно профессионал своего дела — всегда внимательно выслушает пожелания и предложит подходящий стиль. Атмосфера в барбершопе уютная и стильная, а качество обслуживания на высоте. Я остался очень доволен результатом, и уверен, что буду приходить снова. Рекомендую Торегали всем, кто хочет получить качественную стрижку и отличный сервис! 1",
+      "raw_text": "БТ Батыр Тортаев 2 отзыва 18 января 2025 Хочу поблагодарить мастера Торегали из барбершопа за отличную работу! Он действительно профессионал своего дела — всегда внимательно выслушает пожелания и предложит подходящий стиль. Атмосфера в барбершопе уютная и стильная, а качество обслуживания на высоте. Я остался очень доволен результатом, и уверен, что буду приходить снова. Рекомендую Торегали всем, кто хочет получить качественную стрижку и отличный сервис! Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Олжас .",
+      "date": "27 ноября 2024",
+      "rating": "5",
+      "text": "Классно подстригли, приду ещё. Мастера опытные, всё что надо узнают, подскажут и поймут, что вам предпочтительнее. Х о р о ш о. 1",
+      "raw_text": "О. Олжас . 11 отзывов 27 ноября 2024 Классно подстригли, приду ещё. Мастера опытные, всё что надо узнают, подскажут и поймут, что вам предпочтительнее. Х о р о ш о. 1 Полезно?"
+    },
+    {
+      "author": "Yerden Ramazanov",
+      "date": "24 октября 2024",
+      "rating": "5",
+      "text": "Бахтияр очень классный барбер. В первый постригли так как хотел 1",
+      "raw_text": "YR Yerden Ramazanov 4 отзыва 24 октября 2024 Бахтияр очень классный барбер. В первый постригли так как хотел 1 Полезно?"
+    },
+    {
+      "author": "Рауан Искаков",
+      "date": "24 октября 2024",
+      "rating": "5",
+      "text": "Лучший мастер в моей жизни! Отличная беседа и проделанная работа! 🪄👍 Наша жизнь в наших руках 1",
+      "raw_text": "РИ Рауан Искаков 14 отзывов 24 октября 2024, изменён Лучший мастер в моей жизни! Отличная беседа и проделанная работа! 🪄👍 Наша жизнь в наших руках 1 Полезно?"
+    },
+    {
+      "author": "Ернар Саветбек",
+      "date": "10 октября 2024",
+      "rating": "5",
+      "text": "Отлично стригут, мастер Торегали очень тщательно и щепетильно отнесся к делу . Крайне рекомендую! 👍🏻 1",
+      "raw_text": "ЕС Ернар Саветбек 4 отзыва 10 октября 2024 Отлично стригут, мастер Торегали очень тщательно и щепетильно отнесся к делу . Крайне рекомендую! 👍🏻 1 Полезно?"
+    },
+    {
+      "author": "Jack Daniels",
+      "date": "10 октября 2024",
+      "rating": "5",
+      "text": "Очень грамотный мастер, все на высшем уровне, красиво подобрал форму стрижки и бороды, Рахмет 1",
+      "raw_text": "JD Jack Daniels 4 отзыва 10 октября 2024 Очень грамотный мастер, все на высшем уровне, красиво подобрал форму стрижки и бороды, Рахмет 1 Полезно?"
+    },
+    {
+      "author": "Елжас Бакыт",
+      "date": "4 октября 2024",
+      "rating": "5",
+      "text": "Торегали, спасибо! Отличная стрижка, приду снова👍👍👍 1",
+      "raw_text": "Елжас Бакыт 4 отзыва 4 октября 2024 Торегали, спасибо! Отличная стрижка, приду снова👍👍👍 1 Полезно?"
+    },
+    {
+      "author": "Daryn Daryn",
+      "date": "22 сентября 2024",
+      "rating": "5",
+      "text": "Хорошо постригли, все четко и аккуратно! Успехов и процветания! Клиентоориентированность на высшем уровне! 1",
+      "raw_text": "Daryn Daryn 11 отзывов 22 сентября 2024 Хорошо постригли, все четко и аккуратно! Успехов и процветания! Клиентоориентированность на высшем уровне! 1 Полезно?"
+    },
+    {
+      "author": "Ainagul Nadyrgaliyeva",
+      "date": "20 сентября 2024",
+      "rating": "5",
+      "text": "Добрый день! Хотелось бы поблагодарить мастера Турегали за проявленное мастерство и огромный позитив ☀️ впервые сыну подростку понравилась стрижка 👍🏽 теперь будем ходить к вам не только за стрижкой и вкусным кофе)) но и за зарядом положительной энергией ✨✨✨ 2",
+      "raw_text": "AN Ainagul Nadyrgaliyeva 5 отзывов 20 сентября 2024 Добрый день! Хотелось бы поблагодарить мастера Турегали за проявленное мастерство и огромный позитив ☀️ впервые сыну подростку понравилась стрижка 👍🏽 теперь будем ходить к вам не только за стрижкой и вкусным кофе)) но и за зарядом положительной энергией ✨✨✨ Читать целиком 2 Полезно?"
+    },
+    {
+      "author": "L D",
+      "date": "19 сентября 2024",
+      "rating": "5",
+      "text": "Стрижка понравилась, пожелания учли. Благодарю мастера Бахтияра за работу! 2",
+      "raw_text": "LD L D 25 отзывов 19 сентября 2024 Стрижка понравилась, пожелания учли. Благодарю мастера Бахтияра за работу! 2 Полезно?"
+    },
+    {
+      "author": "Nurgisa Samatuly",
+      "date": "15 сентября 2024",
+      "rating": "5",
+      "text": "Отличное место, как для стрижки, так и для поднятия настроения на день. Общительный барбер, показал лучший сервис🔥🔥🔥 1",
+      "raw_text": "NS Nurgisa Samatuly 6 отзывов 15 сентября 2024 Отличное место, как для стрижки, так и для поднятия настроения на день. Общительный барбер, показал лучший сервис🔥🔥🔥 1 Полезно?"
+    },
+    {
+      "author": "Musssa Musaev",
+      "date": "15 сентября 2024",
+      "rating": "5",
+      "text": "Отличный барбер, высший уровень сервиса 100%.С порога предложили кофе, дали удобное место. Очень приятный в общении Барбер-по совместительству владелец Парихмахерской.Стрижка идеальная. 1",
+      "raw_text": "Musssa Musaev 7 отзывов 15 сентября 2024 Отличный барбер, высший уровень сервиса 100%.С порога предложили кофе, дали удобное место. Очень приятный в общении Барбер-по совместительству владелец Парихмахерской.Стрижка идеальная. Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Тимуравелли",
+      "date": "12 сентября 2024",
+      "rating": "5",
+      "text": "Спасибо сразу видно что мастера 👍 1",
+      "raw_text": "Тимуравелли 15 отзывов 12 сентября 2024 Спасибо сразу видно что мастера 👍 1 Полезно?"
+    },
+    {
+      "author": "Дархан Сарсенбек",
+      "date": "12 сентября 2024",
+      "rating": "5",
+      "text": "Классный барбершоп! Классные мастера! Быстро, четко и красиво! Бахтияр мастер Топ! 🔥🔥 1",
+      "raw_text": "Дархан Сарсенбек 17 отзывов 12 сентября 2024 Классный барбершоп! Классные мастера! Быстро, четко и красиво! Бахтияр мастер Топ! 🔥🔥 1 Полезно?"
+    },
+    {
+      "author": "Шайкенов Болат",
+      "date": "12 сентября 2024",
+      "rating": "5",
+      "text": "Забежал в ближайшую парикмахерскую по 2gis и как говорится нашел своего парикмахера). Подстриг классно и историй весёлых нарассказывал. Спасибо мастеру Торегали 1",
+      "raw_text": "ШБ Шайкенов Болат 7 отзывов 12 сентября 2024 Забежал в ближайшую парикмахерскую по 2gis и как говорится нашел своего парикмахера). Подстриг классно и историй весёлых нарассказывал. Спасибо мастеру Торегали Читать целиком 1 Полезно?"
+    },
+    {
+      "author": "Хосэ Энрике",
+      "date": "11 сентября 2024",
+      "rating": "5",
+      "text": "Шикардосовский мастер Торегали. Большой Рахмет Вам. Сделали именно то, что мне было нужно 👍 1",
+      "raw_text": "ХЭ Хосэ Энрике 82 отзыва 11 сентября 2024 Шикардосовский мастер Торегали. Большой Рахмет Вам. Сделали именно то, что мне было нужно 👍 1 Полезно?"
+    }
+  ],
+  "features": [
+    "Сохранить",
+    "Отправить",
+    "Салон красоты",
+    "4.9",
+    "Подтверждён",
+    "(189)",
+    "Контакты",
+    "Инфо",
+    "Вопросы",
+    "Парикмахерские",
+    "​Жен.стрижка от 7000 тнг.​Муж.стрижка от 5000 тнг.​Детская стрижка​Стрижка бороды​Женская химзавивка​Мужская химзавивка​Сложное окрашивание",
+    "Ресницы и брови",
+    "​Наращивание ресниц​Ламинирование ресниц​Окрашивание ресниц​Коррекция бровей​Окрашивание бровей​Ламинирование бровей",
+    "Услуги",
+    "Онлайн-услуги",
+    "Дополнительно",
+    "Wi-Fi для клиентов",
+    "Способы оплаты",
+    "​Оплата картой​Наличный расчёт​Оплата по QR-коду",
+    "В справочнике",
+    "​Парикмахерские услуги​Визажисты​Оформление бровей и ресниц​Эпиляция​Подолог​Обучение мастеров для салонов красоты",
+    "Парковка",
+    "​10 мест​Бесплатная",
+    "Транспорт",
+    "Дом министерств",
+    "​7 мин​700 м",
+    "Байтерек",
+    "​9 мин​800 м",
+    "6 парковок",
+    "Также люди ищут",
+    "​Салон красоты рядом​Салон красоты​Шаштараз рядом",
+    "Нашли ошибку в данных?",
+    "​Это моя компания​Реклама в 2ГИС ↗",
+    "​2ГИС для Android​2ГИС для iOS",
+    "Добавить заметку"
+  ],
+  "photos": [
+    {
+      "file": "Gallery-01.webp",
+      "source": "https://i3.photo.2gis.com/photo-gallery/49d0639f-d2b4-4909-85f3-97e987095d4b.jpg",
+      "source_width": 1440,
+      "source_height": 2557,
+      "width": 1239,
+      "height": 2200,
+      "sha256": "f2986566b837d06e3463c65e90923c5db0223a7cdd44f4814b4459c87c9131e3",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-02.webp",
+      "source": "https://i2.photo.2gis.com/photo-gallery/65e8ead2-9ec8-48a2-a779-218a6425ac7c.jpg",
+      "source_width": 731,
+      "source_height": 1280,
+      "width": 731,
+      "height": 1280,
+      "sha256": "33fb22461fe770c26f30590d2c0d518a2ca043f9368b3c180147e79141a2282c",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-03.webp",
+      "source": "https://i9.photo.2gis.com/photo-gallery/9137a1ef-9054-4a07-ac71-11ee0740e836.jpg",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 1280,
+      "sha256": "04e3cf1f42ddffbd1ac9ceffbcb2982a9ba85c67bfa79bd1d8a52ea2da4e46de",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-04.webp",
+      "source": "https://i2.photo.2gis.com/photo-gallery/474a18e3-8625-4f99-8e00-5bb2ddf7b455.jpg",
+      "source_width": 905,
+      "source_height": 1600,
+      "width": 905,
+      "height": 1600,
+      "sha256": "681aee2ec156caa69e964f08475556c8317b1389b4a0bb18e6be3db799806db7",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-05.webp",
+      "source": "https://i2.photo.2gis.com/photo-gallery/626e65e1-ec01-4654-8762-2dbfb2e71719.jpg",
+      "source_width": 1024,
+      "source_height": 1024,
+      "width": 1024,
+      "height": 1024,
+      "sha256": "4217546c9bc307bdce63bd09f2924907255c9f6c68ef5082beff04c7cdd1accd",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-06.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/dc82f63a-da73-4ea3-ba09-e597f84d538f.jpg",
+      "source_width": 1440,
+      "source_height": 1080,
+      "width": 1440,
+      "height": 1080,
+      "sha256": "4419c837e1e755d54c77cdcf50857736014f595e93e757505a58c184a0654933",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-07.webp",
+      "source": "https://i5.photo.2gis.com/photo-gallery/6f717ef2-74fd-456c-95cb-b02d79dd6770.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "f385c9f3a8c89e28fdc6619c9e1600b35c71d2e08f351a32a8b3ee8eb3891f93",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-08.webp",
+      "source": "https://i0.photo.2gis.com/photo-gallery/dfbb5398-fbed-4175-8a81-ff80849fd522.jpg",
+      "source_width": 720,
+      "source_height": 1280,
+      "width": 720,
+      "height": 1280,
+      "sha256": "0588d8cea521c2c2ce09b74b97d94065d667f35fdee95a1d428c581593a21a37",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-09.webp",
+      "source": "https://i7.photo.2gis.com/photo-gallery/e8d24cc7-d154-4f4e-9a70-205d80e792d2.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "78bc8ca60d7c1e57539aeebfa3dc2e9abd94a0cbda5c09447c5d5b3af0d3d018",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-10.webp",
+      "source": "https://i8.photo.2gis.com/photo-gallery/4564fc6d-0dcd-426f-9414-16a9758a89b1.jpg",
+      "source_width": 1440,
+      "source_height": 1439,
+      "width": 1440,
+      "height": 1439,
+      "sha256": "fadd6e9acf6afdf16f4fd20c2f10c0932de8fa5ca0a48b7bb9f723b3d571b950",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-11.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/69282abe-b167-4754-a0b3-a31ed4e3c8b1.jpg",
+      "source_width": 899,
+      "source_height": 1599,
+      "width": 899,
+      "height": 1599,
+      "sha256": "834f0147c504eb66be48f047f97e31015719379b2173449d29352dafb834acc6",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "work",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-12.webp",
+      "source": "https://i3.photo.2gis.com/photo-gallery/355792ea-4569-4f0e-86d0-9856d4247618.jpg",
+      "source_width": 1440,
+      "source_height": 1080,
+      "width": 1440,
+      "height": 1080,
+      "sha256": "c305b6cabf39abeffa0d7c8f0b99247bad1aad9a620b03a1bc1d321582196835",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-13.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/a780ce56-7359-4eaf-8d80-8d6d3c21f7f4.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "2df3308a4f369fd54b3ec43f12354bc52adcfc43bd32ba3bfc68879552c1ddf9",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-14.webp",
+      "source": "https://i9.photo.2gis.com/photo-gallery/f7ecfa07-913f-49be-8287-065f3dfdf915.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "6cc60cd1129f384087fba0406b4966432101ad350b4665b799d9d39e2369a31b",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-15.webp",
+      "source": "https://i0.photo.2gis.com/photo-gallery/c05e2dfb-e412-4b9d-b8b5-c21ed7e9ad3b.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "c404ab70e3480d5eb6da3bab627664aca85e945e86fc805a0f6015acd86d7840",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-16.webp",
+      "source": "https://i0.photo.2gis.com/photo-gallery/ff61c0d8-6caf-4a57-b70e-309957d63dbf.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "09bdf3a8c5f30e6c53c764b3e1578efd5c3133cbf2800e2c12309bdead2e6bdf",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Gallery-17.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/1800ed71-c437-4ffe-8208-556049b5e50c.jpg",
+      "source_width": 1440,
+      "source_height": 1912,
+      "width": 1440,
+      "height": 1912,
+      "sha256": "9c4096258e603fcdaba7bd0e083f7e0c9943d63bc925ac47a90babbbc572b3a6",
+      "categories": [
+        "Все"
+      ],
+      "photo_group": "salon",
+      "role": "gallery"
+    },
+    {
+      "file": "Hero.webp",
+      "source": "https://i3.photo.2gis.com/photo-gallery/cfaf91f2-e753-4c7e-be4d-4d3cbd8e3794.jpg",
+      "source_width": 736,
+      "source_height": 1349,
+      "width": 736,
+      "height": 1349,
+      "sha256": "443513472b79c7076ab1f037a4f01cbccb1d119613d3398c724daa4bb5dab149",
+      "categories": [
+        "Все"
+      ],
+      "role": "hero"
+    },
+    {
+      "file": "Profile.webp",
+      "source": "https://i6.photo.2gis.com/photo-gallery/e14c9f5f-719c-41c8-ba62-36ce81325eb8.jpg",
+      "source_width": 1440,
+      "source_height": 1920,
+      "width": 1440,
+      "height": 1920,
+      "sha256": "a44ba8d28d35bedbd5281530b4451c52d6799aac4966c7ff1f5cd9160026b083",
+      "categories": [
+        "Все"
+      ],
+      "role": "profile"
+    }
+  ],
+  "site_images": {
+    "logo": null,
+    "hero": "assets/Hero.webp",
+    "profile": "assets/Profile.webp",
+    "gallery": [
+      "assets/Gallery-01.webp",
+      "assets/Gallery-02.webp",
+      "assets/Gallery-03.webp",
+      "assets/Gallery-04.webp",
+      "assets/Gallery-05.webp",
+      "assets/Gallery-06.webp",
+      "assets/Gallery-07.webp",
+      "assets/Gallery-08.webp",
+      "assets/Gallery-09.webp",
+      "assets/Gallery-10.webp",
+      "assets/Gallery-11.webp",
+      "assets/Gallery-12.webp",
+      "assets/Gallery-13.webp",
+      "assets/Gallery-14.webp",
+      "assets/Gallery-15.webp",
+      "assets/Gallery-16.webp",
+      "assets/Gallery-17.webp"
+    ],
+    "team": []
+  },
+  "suggested_main_file": "assets/Hero.webp",
+  "raw_sections": {
+    "overview": {
+      "url": "https://2gis.kz/astana/firm/70000001092448703",
+      "title": "Este Beauty, салон красоты на карте, Парикмахерские услуги, Астана — 2ГИС",
+      "heading": "Este Beauty",
+      "meta": "Este Beauty, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Жен.стрижка от 7000 тнг., Муж.стрижка от 5000 тнг., Детская стрижка, Стрижка бороды, Женская химзавивка, Мужская химзавивка, Сложное окрашивание, Wi-Fi для клиентов",
+      "text": "Сохранить\nОтправить\nМаршрут\nEste Beauty \nСалон красоты\n4.9\nПодтверждён\n(189)\nКонтакты\nИнфо\nОтзывы\n131\nЦены\n10\nФото\n21\nВопросы\n​Улица Достык, 13​2 филиала\nЕсиль район, Астана, Z05H9H8\nПоказать вход\nОткрыто\nЕжедневно с 10:00 до 21:00\n+7‒708‒011... Показать телефон\nInstagram\nWhatsApp\nПохожие организации\nDINARA MYNBAI, салон красоты\nМакияж + укладка — 16 800 ₸. Люкс-косметика. 5 филиалов\nЗАПИШИТЕСЬ ПРЯМО СЕЙЧАС\nРеклама\nSakura, студия красоты\nОкрашивание вне зависимости от длины — 25 990 вместо 33 500\nПерейти на сайт\nBoudoir, салон красоты\nМужская стрижка у опытного мастера! Быстро и с учетом вашего стиля.\nНаписать в WhatsApp\nBeauty space, салон красоты\nМаникюр без покрытия — 6000 тг. Маникюр с покрытием гелем от 10 000 тг\nЗаписаться\nIn Beauty, салон красоты\nПремиум-красота без компромиссов. Ждём вас!\nЗаписаться\nТовары и услуги\nСтрижка Женская\nот 7 000 T\nУкладка\nот 6 000 T\nУкладка локоны\nот 8 000 T\nПосмотреть все товары и услуги\nВопросы о месте\nОтвечает ИИ-помощник\nРасскажи об этой парикмахерской\nКакие стрижки можно сделать?\nСколько стоит женская стрижка?\nКакой режим работы?\nКак можно оплатить?\nЕсть ли запись на стрижку?\nЗадать свой вопрос\nНашли ошибку в данных?\n​Это моя компания​Реклама в 2ГИС ↗\n​2ГИС для Android​2ГИС для iOS\nДобавить заметку",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/astana/directions/points/%7C71.435577%2C51.12679%3B70000001092448703"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/astana/firm/70000001092448703"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/info"
+        },
+        {
+          "text": "Отзывы 131",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/reviews"
+        },
+        {
+          "text": "Цены 10",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/prices"
+        },
+        {
+          "text": "Фото 21",
+          "href": "https://2gis.kz/astana/gallery/firm/70000001092448703"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/questions"
+        },
+        {
+          "text": "Улица Достык, 13",
+          "href": "https://2gis.kz/astana/geo/9570784863348602"
+        },
+        {
+          "text": "2 филиала",
+          "href": "https://2gis.kz/astana/branches/70000001109539471"
+        },
+        {
+          "text": "+7‒708‒011...",
+          "href": "tel:+77080118080"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://link.2gis.com/4.2/B6CB9D53/aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2VzdGUuYmVhdXR5LmFzdGFuYQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiMWNjMzBjMjMtYjVkMS00Y2U5LTk3OTgtYTQ3MDIwOWZmOTFlIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzAxLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI1N2M5M2FjZi1hOWQ1LTQzOWEtYmVmNi1kNmU2ODU2MzJjMDUiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNvbnRhY3QiLCJvd25lck5hbWUiOiJjYXJkQ29udGFjdHMiLCJwb3NpdGlvbiI6MSwiZnJhbWVVdWlkIjoiYTBjMjc2MjAtZjkwZS00ZTUxLTlhMTAtNGRkOTljNzFjOTE5In0sInBheWxvYWQiOnsiY29udGFjdCI6eyJ2YWx1ZSI6Imh0dHBzOi8vaW5zdGFncmFtLmNvbS9lc3RlLmJlYXV0eS5hc3RhbmEiLCJ0eXBlIjoiaW5zdGFncmFtIiwicG9zaXRpb24iOjF9LCJwbGFjZUl0ZW0iOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwOTI0NDg3MDMiLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjgifX0sImdlb1Bvc2l0aW9uIjp7ImxvbiI6NzEuNDM1NTc3LCJsYXQiOjUxLjEyNjc5fSwibWFpblJ1YnJpYyI6IjMwNSIsImlzRGVsZXRlZCI6ZmFsc2UsIm9yZyI6IjcwMDAwMDAxMTA5NTM5NDcxIiwiaGFzTW9kZWwiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjQsInBhcmVudFRhYklkIjoiNzI3OGUxN2YtYzM1YS00MWE1LWIxNmUtNjllNWMwNGQ5OTM4In19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzIifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMiJ9LHsibmFtZSI6IkZpbHRlcnNPbk1hcE9ubGluZSIsInZhbHVlIjoiZW5hYmxlXzIifSx7Im5hbWUiOiJtYXBUb29sdGlwRXhwZXJpbWVudCIsInZhbHVlIjoiY29udHJvbEdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMiJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8yIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzIifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "WhatsApp",
+          "href": "https://link.2gis.com/4.2/4E15E5BB/aHR0cHM6Ly93YS5tZS83NzA4MDExODA4MD90ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMlMjAlRDAlQjglRDAlQjclMjAlRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYlMjAyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQQpodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiMjcxZTIxZWItNjQ5Yy00ODFiLWIxN2MtMzllOWRmNjJkMmIyIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzAyLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiI0MTM2MzhlMS0wYzkyLTRmNDYtODJjMC05NjI4OGE3MjhmZDgiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNvbnRhY3QiLCJvd25lck5hbWUiOiJjYXJkQ29udGFjdHMiLCJwb3NpdGlvbiI6MiwiZnJhbWVVdWlkIjoiYTBjMjc2MjAtZjkwZS00ZTUxLTlhMTAtNGRkOTljNzFjOTE5In0sInBheWxvYWQiOnsiY29udGFjdCI6eyJ2YWx1ZSI6Imh0dHBzOi8vd2EubWUvNzcwODAxMTgwODA%2FdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzJTIwJUQwJUI4JUQwJUI3JTIwJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGJTIwMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEiLCJ0eXBlIjoid2hhdHNhcHAiLCJwb3NpdGlvbiI6Mn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA5MjQ0ODcwMyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3MS40MzU1NzcsImxhdCI6NTEuMTI2Nzl9LCJtYWluUnVicmljIjoiMzA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMDk1Mzk0NzEiLCJoYXNNb2RlbCI6ZmFsc2V9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6NCwicGFyZW50VGFiSWQiOiI3Mjc4ZTE3Zi1jMzVhLTQxYTUtYjE2ZS02OWU1YzA0ZDk5MzgifX0sImFiVGVzdCI6W3sibmFtZSI6Ik1hcFJlZGVzaWduIiwidmFsdWUiOiJmdWxsTWFwUmVkZXNpZ25fMiJ9LHsibmFtZSI6ImFkTWFya2Vyc0J1YmJsZVdpdGhCZyIsInZhbHVlIjoibmV3QWRNYXJrZXJzXzIifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8yIn0seyJuYW1lIjoiRmlsdGVyc09uTWFwT25saW5lIiwidmFsdWUiOiJlbmFibGVfMiJ9LHsibmFtZSI6Im1hcFRvb2x0aXBFeHBlcmltZW50IiwidmFsdWUiOiJjb250cm9sR3JvdXBfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18yIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzIifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMiJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D"
+        },
+        {
+          "text": "ЗАПИШИТЕСЬ ПРЯМО СЕЙЧАС",
+          "href": "https://link.2gis.com/4.2/2A67B7E5/aHR0cHM6Ly9hcGkud2hhdHNhcHAuY29tL3NlbmQvP3Bob25lPTc3NzU3Nzg1Njg5JnRleHQ9JUQwJTk3JUQwJUI0JUQxJTgwJUQwJUIwJUQwJUIyJUQxJTgxJUQxJTgyJUQwJUIyJUQxJTgzJUQwJUI5JUQxJTgyJUQwJUI1ISUwQSUwQSVEMCU5RiVEMCVCOCVEMSU4OCVEMSU4MyslRDAlQjglRDAlQjcrJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGKzIlRDAlOTMlRDAlOTglRDAlQTEuJTBBJTBBJnR5cGU9cGhvbmVfbnVtYmVyJmFwcF9hYnNlbnQ9MApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiZDk0OWYzMzItNTQ5OC00OTdmLWI2YWItYjM1MDAyOWNlN2UxIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzAzLCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIzMzI0MDMxNi02YzA2LTQ1NzAtYmEwZS0xODVlOTE2ODBhNmUiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjoxLCJmcmFtZVV1aWQiOiJhMGMyNzYyMC1mOTBlLTRlNTEtOWExMC00ZGQ5OWM3MWM5MTkifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzU1NUJEN0ZGL29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjgvNzAwMDAwMDExMTY4NDE2NjMvbnVsbC9ycnJmdUF0cDRkZjVlQThkQUo4SEc0SUFIR0lJR0gySmxlbGdvZ3NEZWQtOTg2MzAxMzE3MUFDSTI3ODcyNjg1LTcwQjAwNGQzNzA0SjI4QzM5MkM1Nzc5SDFJM0pINTVpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTFIMUozSTQyNmI3P2h0dHBzOi8vYXBpLndoYXRzYXBwLmNvbS9zZW5kLz9waG9uZT03Nzc1Nzc4NTY4OSZ0ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMrJUQwJUI4JUQwJUI3KyVEMCVCRiVEMSU4MCVEMCVCOCVEMCVCQiVEMCVCRSVEMCVCNiVEMCVCNSVEMCVCRCVEMCVCOCVEMSU4RisyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQSZ0eXBlPXBob25lX251bWJlciZhcHBfYWJzZW50PTAifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDkyNDQ4NzAzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY4In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjcxLjQzNTU3NywibGF0Ijo1MS4xMjY3OX0sIm1haW5SdWJyaWMiOiIzMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTUzOTQ3MSIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTExNjg0MTY2MyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwibWFpblJ1YnJpYyI6IjMwNSIsIm9yZyI6IjcwMDAwMDAxMDE5NTQ3NTUwIiwiYWRzQWxnb3JpdGhtIjoxMCwiYXVjdGlvbklkIjoiOGMxYWVkYmQtYzY5Zi00ZGRmLWI0NzItNmIxODFiOGUwNzM4IiwiY29udGV4dFJ1YnJpYyI6IjMwNSIsInBvc2l0aW9uIjoxLCJhZHNIaWdobGlnaHQiOnRydWV9LCJleHRlcm5hbExpbmsiOnsiZm9ya0V2ZW50T3JkaW5hbCI6NCwicGFyZW50VGFiSWQiOiI3Mjc4ZTE3Zi1jMzVhLTQxYTUtYjE2ZS02OWU1YzA0ZDk5MzgifX0sImFiVGVzdCI6W3sibmFtZSI6Ik1hcFJlZGVzaWduIiwidmFsdWUiOiJmdWxsTWFwUmVkZXNpZ25fMiJ9LHsibmFtZSI6ImFkTWFya2Vyc0J1YmJsZVdpdGhCZyIsInZhbHVlIjoibmV3QWRNYXJrZXJzXzIifSx7Im5hbWUiOiJkYXNoYm9hcmRSZWRlc2lnbiIsInZhbHVlIjoicmVkZXNpZ25Hcm91cF8yIn0seyJuYW1lIjoiRmlsdGVyc09uTWFwT25saW5lIiwidmFsdWUiOiJlbmFibGVfMiJ9LHsibmFtZSI6Im1hcFRvb2x0aXBFeHBlcmltZW50IiwidmFsdWUiOiJjb250cm9sR3JvdXBfMSJ9LHsibmFtZSI6Imd1aWRlTWFya2VycyIsInZhbHVlIjoid2l0aFBob3Rvc18yIn0seyJuYW1lIjoiYWlSZWNvdmVyeUFnZW50RW50cnlQb2ludCIsInZhbHVlIjoiYWlBZ2VudEVudHJ5UG9pbnRFbmFibGVkXzIifSx7Im5hbWUiOiJtYXJrZXJBbmFseXRpY3MiLCJ2YWx1ZSI6IndpdGhBbmFseXRpY3NfMiJ9XSwic2NyZWVuU3RhdGUiOnsib3JpZW50YXRpb24iOiJob3Jpem9udGFsIiwic2NyZWVuUmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9LCJ3aW5kb3dSZXNvbHV0aW9uIjp7IndpZHRoIjoxNDUwLCJoZWlnaHQiOjk1MH19LCJ1c2VyU2V0dGluZ3MiOnsibWFwIjp7ImVmZmVjdHNMZXZlbCI6ImRlZmF1bHQiLCIzZE1hcCI6dHJ1ZX19fV0%3D"
+        },
+        {
+          "text": "Перейти на сайт",
+          "href": "https://link.2gis.com/4.2/F80E5C72/aHR0cDovL3Nha3VyYWFzdGFuYS5rei8%2FdXRtX3NvdXJjZT0yZ2lzJnV0bV9tZWRpdW09bGluayZ1dG1fY2FtcGFpZ249YXV0b19nZW5lcmF0ZWRfY3RhCmh0dHBzOi8vczEuYnNzLjJnaXMuY29tL2Jzcy8zClt7ImNvbW1vbiI6eyJmb3JtYXRWZXJzaW9uIjozLCJhcHBWZXJzaW9uIjoiMjAyNi0xMC0wMi0xNyIsInByb2R1Y3QiOjM0LCJhcGlrZXkiOiJjN2YxYTc2OS1jOGE1LTQ2MzYtYjE0ZC1kOGM5ODc4MDhhMTIiLCJhcGlrZXlTdGF0dXMiOjEsImRldmljZUxvY2FsZSI6InJ1X0taIiwidXNlciI6IjU0MTI0MTUyLTY3OGQtNDQzZS1iMWJkLTBkMWEwOGU5YzM4NSIsImlwIjoiMTg4LjI0My4yMjQuNjIiLCJzZXNzaW9uSWQiOiJmZGJiYzc5OC0yN2RhLTQyNmUtOWNkZC1hNzI1YjAwYWY5YzQiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTU0LjAuMC4wIFNhZmFyaS81MzcuMzYgRWRnLzE1NC4wLjAuMCIsImRldmljZVR5cGUiOiJkZXNrdG9wIiwicGVyc29uYWxEYXRhQ29sbGVjdGlvbkFsbG93ZWQiOnRydWUsInRhYklzQWN0aXZlIjp0cnVlfSwidXRjT2Zmc2V0IjoiKzAzOjAwIiwidGFiSWQiOiIzNDI0Nzc2Yy1iYjJkLTQ4ZjAtOWQ0MS1mMDhmMmY3NDQzMTciLCJ0aW1lc3RhbXAiOjE3OTEyMDcwODk3MDQsInR5cGUiOjIxMSwiZXZlbnRUeXBlIjoiYWN0aW9uIiwiZXZlbnRJZCI6ImFiMzFkOTRiLTZjMmYtNDI4Yy05MmY4LTM5N2M1YTdhMWRjMCIsImFjdGlvblR5cGUiOiJleHRlcm5hbExpbmsiLCJldmVudE9yZGluYWwiOjAsInVpRWxlbWVudCI6eyJuYW1lIjoiY2FsbFRvQWN0aW9uQnV0dG9uIiwib3duZXJOYW1lIjoiYWRzQmFubmVyIiwicG9zaXRpb24iOjIsImZyYW1lVXVpZCI6ImEwYzI3NjIwLWY5MGUtNGU1MS05YTEwLTRkZDk5YzcxYzkxOSJ9LCJwYXlsb2FkIjp7ImNhbGxUb0FjdGlvbiI6eyJhY3Rpb25UeXBlIjoibGluayIsInZhbHVlIjoiaHR0cDovL2xpbmsuMmdpcy5ydS8xLjIvQzhERUUyNjcvb25saW5lLzIwMjYxMDAxL3Byb2plY3Q2OC83MDAwMDAwMTA5MzM4MTYzMy9udWxsL0RlM2NxZTZ5NGRmNWVBOGRBSjhIRzRJQUhHSUlHSDJKRGlnZXRlRHplZC05ODYzMDEzMTcxQUNJQTQzQjI2NTUtNzBCMDA0ZDM3MDRKMjhDMzkyQzU3NzlIMUkzSkg1NWlmQjZmY2hkNjU4NUc0RzIwMzIwMDAxMEgxSjNJNzczZGk%2FaHR0cDovL3Nha3VyYWFzdGFuYS5rej91dG1fc291cmNlPTJnaXMmdXRtX21lZGl1bT1saW5rJnV0bV9jYW1wYWlnbj1hdXRvX2dlbmVyYXRlZF9jdGEifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDkyNDQ4NzAzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY4In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjcxLjQzNTU3NywibGF0Ijo1MS4xMjY3OX0sIm1haW5SdWJyaWMiOiIzMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTUzOTQ3MSIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA5MzM4MTYzMyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwibWFpblJ1YnJpYyI6IjY1MiIsIm9yZyI6IjcwMDAwMDAxMDE4MDcyNjY0IiwiYWRzQWxnb3JpdGhtIjoyMCwiYXVjdGlvbklkIjoiNjNhYzQxZjItZTgxNC00OTc4LWEzMWQtNzhiODkzNDViNmQxIiwiY29udGV4dFJ1YnJpYyI6IjY1MiIsInBvc2l0aW9uIjoyLCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjQsInBhcmVudFRhYklkIjoiNzI3OGUxN2YtYzM1YS00MWE1LWIxNmUtNjllNWMwNGQ5OTM4In19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzIifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMiJ9LHsibmFtZSI6IkZpbHRlcnNPbk1hcE9ubGluZSIsInZhbHVlIjoiZW5hYmxlXzIifSx7Im5hbWUiOiJtYXBUb29sdGlwRXhwZXJpbWVudCIsInZhbHVlIjoiY29udHJvbEdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMiJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8yIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzIifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Написать в WhatsApp",
+          "href": "https://link.2gis.com/4.2/C9A20576/aHR0cHM6Ly9hcGkud2hhdHNhcHAuY29tL3NlbmQvP3Bob25lPTc3MDgyMDAzMjMwJnRleHQ9JUQwJTk3JUQwJUI0JUQxJTgwJUQwJUIwJUQwJUIyJUQxJTgxJUQxJTgyJUQwJUIyJUQxJTgzJUQwJUI5JUQxJTgyJUQwJUI1ISUwQSUwQSVEMCU5RiVEMCVCOCVEMSU4OCVEMSU4MyslRDAlQjglRDAlQjcrJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGKzIlRDAlOTMlRDAlOTglRDAlQTEuJTBBJTBBJnR5cGU9cGhvbmVfbnVtYmVyJmFwcF9hYnNlbnQ9MApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiNzZiOTk4ZjEtZTE1ZS00OTc5LThmMTYtN2Y5MzY2ODdmODVlIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzA0LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiIxMmQ2Y2MwZS1jZWM1LTQyOTItOThhYS01NTE2YjI2Y2Y0NDUiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjozLCJmcmFtZVV1aWQiOiJhMGMyNzYyMC1mOTBlLTRlNTEtOWExMC00ZGQ5OWM3MWM5MTkifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzgyODM5MEEzL29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjgvNzAwMDAwMDEwMTgwNjQzNzIvbnVsbC9kZzRjbW1tNDRkZjVlQThkQUo4SEc0SUFIR0lJR0gySm5sY3kzbXh6ZWQtOTg2MzAxMzE3MUFDSTI5MDk1Mzk0LTcwQjAwNGQzNzA0SjI4QzM5MkM1Nzc5SDFJM0pINTVpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTBIMUozSTQyNmNBP2h0dHBzOi8vYXBpLndoYXRzYXBwLmNvbS9zZW5kLz9waG9uZT03NzA4MjAwMzIzMCZ0ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMrJUQwJUI4JUQwJUI3KyVEMCVCRiVEMSU4MCVEMCVCOCVEMCVCQiVEMCVCRSVEMCVCNiVEMCVCNSVEMCVCRCVEMCVCOCVEMSU4RisyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQSZ0eXBlPXBob25lX251bWJlciZhcHBfYWJzZW50PTAifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDkyNDQ4NzAzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY4In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjcxLjQzNTU3NywibGF0Ijo1MS4xMjY3OX0sIm1haW5SdWJyaWMiOiIzMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTUzOTQ3MSIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTAxODA2NDM3MiIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwibWFpblJ1YnJpYyI6IjMwNSIsIm9yZyI6IjcwMDAwMDAxMDE4MDY0MzcxIiwiYWRzQWxnb3JpdGhtIjoyMCwiYXVjdGlvbklkIjoiNjNhYzQxZjItZTgxNC00OTc4LWEzMWQtNzhiODkzNDViNmQxIiwiY29udGV4dFJ1YnJpYyI6IjMwNSIsInBvc2l0aW9uIjozLCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjQsInBhcmVudFRhYklkIjoiNzI3OGUxN2YtYzM1YS00MWE1LWIxNmUtNjllNWMwNGQ5OTM4In19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzIifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMiJ9LHsibmFtZSI6IkZpbHRlcnNPbk1hcE9ubGluZSIsInZhbHVlIjoiZW5hYmxlXzIifSx7Im5hbWUiOiJtYXBUb29sdGlwRXhwZXJpbWVudCIsInZhbHVlIjoiY29udHJvbEdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMiJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8yIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzIifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Записаться",
+          "href": "https://link.2gis.com/4.2/0504B58D/aHR0cHM6Ly9hcGkud2hhdHNhcHAuY29tL3NlbmQvP3Bob25lPTc3MDg0MjU0NDU1JnRleHQ9JUQwJTk3JUQwJUI0JUQxJTgwJUQwJUIwJUQwJUIyJUQxJTgxJUQxJTgyJUQwJUIyJUQxJTgzJUQwJUI5JUQxJTgyJUQwJUI1ISUwQSUwQSVEMCU5RiVEMCVCOCVEMSU4OCVEMSU4MyslRDAlQjglRDAlQjcrJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGKzIlRDAlOTMlRDAlOTglRDAlQTEuJTBBJTBBJnR5cGU9cGhvbmVfbnVtYmVyJmFwcF9hYnNlbnQ9MApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiY2FkNjFmNTAtNTVmMS00NjZiLWE3YjMtNDkzZjI0OWM2NWNkIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzA1LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiJlYzFkMTBlZi1kYzE0LTRkMmYtOTc2Yi1kN2Y4MmM2YzY2ODQiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjo0LCJmcmFtZVV1aWQiOiJhMGMyNzYyMC1mOTBlLTRlNTEtOWExMC00ZGQ5OWM3MWM5MTkifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yL0UyMjcwNTYxL29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjgvNzAwMDAwMDEwNjM4ODA4MDcvbnVsbC9tdjI0M3UydTRkZjVlQThkQUo4SEc0SUE0R0lJR0hHNTlwNEVveng5ZWQtOTg2MzAxMzE3MUFDSTc0OEIxODI5LTcwQjAwNGQzNzA0SjI4QzM5MkM1Nzc5NEgySTRISjRpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTBIMUozSTY4MUdnND9odHRwczovL2FwaS53aGF0c2FwcC5jb20vc2VuZC8%2FcGhvbmU9NzcwODQyNTQ0NTUmdGV4dD0lRDAlOTclRDAlQjQlRDElODAlRDAlQjAlRDAlQjIlRDElODElRDElODIlRDAlQjIlRDElODMlRDAlQjklRDElODIlRDAlQjUhJTBBJTBBJUQwJTlGJUQwJUI4JUQxJTg4JUQxJTgzKyVEMCVCOCVEMCVCNyslRDAlQkYlRDElODAlRDAlQjglRDAlQkIlRDAlQkUlRDAlQjYlRDAlQjUlRDAlQkQlRDAlQjglRDElOEYrMiVEMCU5MyVEMCU5OCVEMCVBMS4lMEElMEEmdHlwZT1waG9uZV9udW1iZXImYXBwX2Fic2VudD0wIn0sInBsYWNlSXRlbSI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTA5MjQ0ODcwMyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwiZ2VvUG9zaXRpb24iOnsibG9uIjo3MS40MzU1NzcsImxhdCI6NTEuMTI2Nzl9LCJtYWluUnVicmljIjoiMzA1IiwiaXNEZWxldGVkIjpmYWxzZSwib3JnIjoiNzAwMDAwMDExMDk1Mzk0NzEiLCJoYXNNb2RlbCI6ZmFsc2V9LCJhZHNCYW5uZXIiOnsiZW50aXR5Ijp7ImlkIjoiNzAwMDAwMDEwNjM4ODA4MDciLCJ0eXBlIjoiYnJhbmNoIiwic2VnbWVudEluZm8iOnsiYmFzZUxvY2FsZSI6InJ1X0taIiwic2VnbWVudElkIjoiNjgifX0sIm1haW5SdWJyaWMiOiI1NjAzIiwib3JnIjoiNzAwMDAwMDEwNjM4ODA4MDYiLCJhZHNBbGdvcml0aG0iOjIwLCJhdWN0aW9uSWQiOiI2M2FjNDFmMi1lODE0LTQ5NzgtYTMxZC03OGI4OTM0NWI2ZDEiLCJjb250ZXh0UnVicmljIjoiNTYwMyIsInBvc2l0aW9uIjo0LCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjQsInBhcmVudFRhYklkIjoiNzI3OGUxN2YtYzM1YS00MWE1LWIxNmUtNjllNWMwNGQ5OTM4In19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzIifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMiJ9LHsibmFtZSI6IkZpbHRlcnNPbk1hcE9ubGluZSIsInZhbHVlIjoiZW5hYmxlXzIifSx7Im5hbWUiOiJtYXBUb29sdGlwRXhwZXJpbWVudCIsInZhbHVlIjoiY29udHJvbEdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMiJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8yIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzIifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Записаться",
+          "href": "https://link.2gis.com/4.2/661CA9DC/aHR0cHM6Ly9hcGkud2hhdHNhcHAuY29tL3NlbmQvP3Bob25lPTc3MDE1MDAwMDY0JnRleHQ9JUQwJTk3JUQwJUI0JUQxJTgwJUQwJUIwJUQwJUIyJUQxJTgxJUQxJTgyJUQwJUIyJUQxJTgzJUQwJUI5JUQxJTgyJUQwJUI1ISUwQSUwQSVEMCU5RiVEMCVCOCVEMSU4OCVEMSU4MyslRDAlQjglRDAlQjcrJUQwJUJGJUQxJTgwJUQwJUI4JUQwJUJCJUQwJUJFJUQwJUI2JUQwJUI1JUQwJUJEJUQwJUI4JUQxJThGKzIlRDAlOTMlRDAlOTglRDAlQTEuJTBBJTBBJnR5cGU9cGhvbmVfbnVtYmVyJmFwcF9hYnNlbnQ9MApodHRwczovL3MxLmJzcy4yZ2lzLmNvbS9ic3MvMwpbeyJjb21tb24iOnsiZm9ybWF0VmVyc2lvbiI6MywiYXBwVmVyc2lvbiI6IjIwMjYtMTAtMDItMTciLCJwcm9kdWN0IjozNCwiYXBpa2V5IjoiYzdmMWE3NjktYzhhNS00NjM2LWIxNGQtZDhjOTg3ODA4YTEyIiwiYXBpa2V5U3RhdHVzIjoxLCJkZXZpY2VMb2NhbGUiOiJydV9LWiIsInVzZXIiOiI1NDEyNDE1Mi02NzhkLTQ0M2UtYjFiZC0wZDFhMDhlOWMzODUiLCJpcCI6IjE4OC4yNDMuMjI0LjYyIiwic2Vzc2lvbklkIjoiZmRiYmM3OTgtMjdkYS00MjZlLTljZGQtYTcyNWIwMGFmOWM0IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE1NC4wLjAuMCBTYWZhcmkvNTM3LjM2IEVkZy8xNTQuMC4wLjAiLCJkZXZpY2VUeXBlIjoiZGVza3RvcCIsInBlcnNvbmFsRGF0YUNvbGxlY3Rpb25BbGxvd2VkIjp0cnVlLCJ0YWJJc0FjdGl2ZSI6dHJ1ZX0sInV0Y09mZnNldCI6IiswMzowMCIsInRhYklkIjoiNWViMjhiNjgtMTEzOS00N2NiLWI1NzAtODJiZDNlNDMzMjVhIiwidGltZXN0YW1wIjoxNzkxMjA3MDg5NzA1LCJ0eXBlIjoyMTEsImV2ZW50VHlwZSI6ImFjdGlvbiIsImV2ZW50SWQiOiJlZTQxZDJlNi0yZTBlLTRjZTAtYTZlZi0yODU0ZTI0M2MxYjgiLCJhY3Rpb25UeXBlIjoiZXh0ZXJuYWxMaW5rIiwiZXZlbnRPcmRpbmFsIjowLCJ1aUVsZW1lbnQiOnsibmFtZSI6ImNhbGxUb0FjdGlvbkJ1dHRvbiIsIm93bmVyTmFtZSI6ImFkc0Jhbm5lciIsInBvc2l0aW9uIjo1LCJmcmFtZVV1aWQiOiJhMGMyNzYyMC1mOTBlLTRlNTEtOWExMC00ZGQ5OWM3MWM5MTkifSwicGF5bG9hZCI6eyJjYWxsVG9BY3Rpb24iOnsiYWN0aW9uVHlwZSI6ImxpbmsiLCJ2YWx1ZSI6Imh0dHA6Ly9saW5rLjJnaXMucnUvMS4yLzNBNEMwRDc2L29ubGluZS8yMDI2MTAwMS9wcm9qZWN0NjgvNzAwMDAwMDExMDU3ODAyOTcvbnVsbC9oMXU4eHF2ZzRkZjVlQThkQUo4SEc0SUFIR0lJR0gySkRzaG04cmZoZWQtOTg2MzAxMzE3MUFDSTE2N0IxMkI5LTcwQjAwNGQzNzA0SjI4QzM5MkM1Nzc5SDFJM0pINTVpZkI2ZmNoZDY1ODVHNEcyMDMyMDAwMTFIMUozSTQyNjlDP2h0dHBzOi8vYXBpLndoYXRzYXBwLmNvbS9zZW5kLz9waG9uZT03NzAxNTAwMDA2NCZ0ZXh0PSVEMCU5NyVEMCVCNCVEMSU4MCVEMCVCMCVEMCVCMiVEMSU4MSVEMSU4MiVEMCVCMiVEMSU4MyVEMCVCOSVEMSU4MiVEMCVCNSElMEElMEElRDAlOUYlRDAlQjglRDElODglRDElODMrJUQwJUI4JUQwJUI3KyVEMCVCRiVEMSU4MCVEMCVCOCVEMCVCQiVEMCVCRSVEMCVCNiVEMCVCNSVEMCVCRCVEMCVCOCVEMSU4RisyJUQwJTkzJUQwJTk4JUQwJUExLiUwQSUwQSZ0eXBlPXBob25lX251bWJlciZhcHBfYWJzZW50PTAifSwicGxhY2VJdGVtIjp7ImVudGl0eSI6eyJpZCI6IjcwMDAwMDAxMDkyNDQ4NzAzIiwidHlwZSI6ImJyYW5jaCIsInNlZ21lbnRJbmZvIjp7ImJhc2VMb2NhbGUiOiJydV9LWiIsInNlZ21lbnRJZCI6IjY4In19LCJnZW9Qb3NpdGlvbiI6eyJsb24iOjcxLjQzNTU3NywibGF0Ijo1MS4xMjY3OX0sIm1haW5SdWJyaWMiOiIzMDUiLCJpc0RlbGV0ZWQiOmZhbHNlLCJvcmciOiI3MDAwMDAwMTEwOTUzOTQ3MSIsImhhc01vZGVsIjpmYWxzZX0sImFkc0Jhbm5lciI6eyJlbnRpdHkiOnsiaWQiOiI3MDAwMDAwMTEwNTc4MDI5NyIsInR5cGUiOiJicmFuY2giLCJzZWdtZW50SW5mbyI6eyJiYXNlTG9jYWxlIjoicnVfS1oiLCJzZWdtZW50SWQiOiI2OCJ9fSwibWFpblJ1YnJpYyI6IjMwNSIsIm9yZyI6IjcwMDAwMDAxMTA1NzgwMjk2IiwiYWRzQWxnb3JpdGhtIjoyMCwiYXVjdGlvbklkIjoiNjNhYzQxZjItZTgxNC00OTc4LWEzMWQtNzhiODkzNDViNmQxIiwiY29udGV4dFJ1YnJpYyI6IjMwNSIsInBvc2l0aW9uIjo1LCJhZHNIaWdobGlnaHQiOmZhbHNlfSwiZXh0ZXJuYWxMaW5rIjp7ImZvcmtFdmVudE9yZGluYWwiOjQsInBhcmVudFRhYklkIjoiNzI3OGUxN2YtYzM1YS00MWE1LWIxNmUtNjllNWMwNGQ5OTM4In19LCJhYlRlc3QiOlt7Im5hbWUiOiJNYXBSZWRlc2lnbiIsInZhbHVlIjoiZnVsbE1hcFJlZGVzaWduXzIifSx7Im5hbWUiOiJhZE1hcmtlcnNCdWJibGVXaXRoQmciLCJ2YWx1ZSI6Im5ld0FkTWFya2Vyc18yIn0seyJuYW1lIjoiZGFzaGJvYXJkUmVkZXNpZ24iLCJ2YWx1ZSI6InJlZGVzaWduR3JvdXBfMiJ9LHsibmFtZSI6IkZpbHRlcnNPbk1hcE9ubGluZSIsInZhbHVlIjoiZW5hYmxlXzIifSx7Im5hbWUiOiJtYXBUb29sdGlwRXhwZXJpbWVudCIsInZhbHVlIjoiY29udHJvbEdyb3VwXzEifSx7Im5hbWUiOiJndWlkZU1hcmtlcnMiLCJ2YWx1ZSI6IndpdGhQaG90b3NfMiJ9LHsibmFtZSI6ImFpUmVjb3ZlcnlBZ2VudEVudHJ5UG9pbnQiLCJ2YWx1ZSI6ImFpQWdlbnRFbnRyeVBvaW50RW5hYmxlZF8yIn0seyJuYW1lIjoibWFya2VyQW5hbHl0aWNzIiwidmFsdWUiOiJ3aXRoQW5hbHl0aWNzXzIifV0sInNjcmVlblN0YXRlIjp7Im9yaWVudGF0aW9uIjoiaG9yaXpvbnRhbCIsInNjcmVlblJlc29sdXRpb24iOnsid2lkdGgiOjE0NTAsImhlaWdodCI6OTUwfSwid2luZG93UmVzb2x1dGlvbiI6eyJ3aWR0aCI6MTQ1MCwiaGVpZ2h0Ijo5NTB9fSwidXNlclNldHRpbmdzIjp7Im1hcCI6eyJlZmZlY3RzTGV2ZWwiOiJkZWZhdWx0IiwiM2RNYXAiOnRydWV9fX1d"
+        },
+        {
+          "text": "Это моя компания",
+          "href": "https://redirect.2gis.com/account/?language=ru&id=68&firmId=70000001109539471&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "Реклама в 2ГИС ↗",
+          "href": "http://redirect.2gis.com/adv/?language=ru&page=online_owner&id=68&calculate_for=70000001092448703&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "2ГИС для Android",
+          "href": "https://2gis.onelink.me/oJqA?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/astana/firm/70000001092448703&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        },
+        {
+          "text": "2ГИС для iOS",
+          "href": "https://2gis.onelink.me/65w0?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/astana/firm/70000001092448703&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        }
+      ]
+    },
+    "services": {
+      "url": "https://2gis.kz/astana/firm/70000001092448703/tab/prices",
+      "title": "Este Beauty, салон красоты - цены и каталог товаров в Астане, улица Достык, 13 — 2ГИС",
+      "heading": "Este Beauty",
+      "meta": "Прайс-лист Este Beauty, салон красоты в Астане, улица Достык, 13 на 2ГИС",
+      "text": "Сохранить\nОтправить\nМаршрут\nEste Beauty \nСалон красоты\n4.9\nПодтверждён\n(189)\nКонтакты\nИнфо\nОтзывы\n131\nЦены\n10\nФото\n21\nВопросы\nСтрижки\nNail\nОбновлено 20 января 2026\nСтрижки\n6\nСтрижка Женская\nот 7 000 T\nУкладка\nот 6 000 T\nУкладка локоны\nот 8 000 T\nОкрашивание корней\nот 15 000 T\nСложное окрашивание\nот 35 000 T\nХимическая завивка\nот 20 000 T\nNail\n4\nМаникюр без покрытия\nот 6 000 T\nМаникюр с гель покрытием\nот 8 000 T\nМаникюр с лаком\nот 7 000 T\nНаращивание ногтей\nот 15 000 T",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/astana/directions/points/%7C71.435577%2C51.12679%3B70000001092448703"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/astana/firm/70000001092448703"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/info"
+        },
+        {
+          "text": "Отзывы 131",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/reviews"
+        },
+        {
+          "text": "Цены 10",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/prices"
+        },
+        {
+          "text": "Фото 21",
+          "href": "https://2gis.kz/astana/gallery/firm/70000001092448703"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/questions"
+        }
+      ]
+    },
+    "reviews": {
+      "url": "https://2gis.kz/astana/firm/70000001092448703/tab/reviews",
+      "title": "Отзывы о Este Beauty, салон красоты, улица Достык, 13, Астана - 2ГИС",
+      "heading": "Este Beauty",
+      "meta": "131 отзыв о Este Beauty, салон красоты. Рейтинг 4.9 на основе 189 оценок, улица Достык, 13. Напишите свой отзыв о Este Beauty, салон красоты",
+      "text": "Сохранить\nОтправить\nМаршрут\nEste Beauty \nСалон красоты\n4.9\nПодтверждён\n(189)\nКонтакты\nИнфо\nОтзывы\n131\nЦены\nФото\n21\nВопросы\nФилиал\nВсе филиалы\n4.9\nВсего 189 оценок\nКак формируется рейтинг?\nНа основе подтверждённых оценок\n\nОцените и оставьте отзыв\n\nПодтверждаем отзывы: оплаты, посещения, бронирования и чаевые\nПодробнее\n131 отзыв\nСначала подтверждённые\nОтличный салон\nОтличный персонал\nПриятный персонал\nОтличный сервис\nОтличное место\nХорошо стригут\nПриятная атмосфера\nОтличный барбер\nОтличная стрижка\nАккуратно и качественно\nПостригли хорошо\nГрамотный персонал\nБыстро и качественно\nЕМ\nЕкатерина Морозова\n8 отзывов\n22 апреля 2026\nБыла на стрижке и окрашивании у мастера Гульмиры. Сделала всё очень качественно и красиво. Дала советы по уходу за волосами.\nТак же делала маникюр у мастера Елены. Это профессионал своего дела.\nОчень отзывчивый и внимательный администратор.\n\nСпасибо салону за таких хороших мастеров. Буду теперь постоянным клиентом.\nЧитать целиком\nЧастый гость\nОтзыв подтверждён\nПолезно?\nАру 🤍\n29 отзывов\n16 июня 2026\nМастер опоздала на 15минут, при этом обозвала меня больной ! 🤦🏻‍♀️🤦🏻‍♀️🤦🏻‍♀️\n1 посещение\nОтзыв подтверждён\nПолезно?\nZA\nZhamanbaeva Ayagoz\n70 отзывов\n6 июня 2026, изменён\nСовершенно наобум, сильно рискуя, чисто по отзывам плюс сегодня на стрижку сюда. Гульмира постригла хорошо, каскад мой обросший подправила отлично, спасибо большое. 2GIS не врет, можно верить\nПошла две недели назад повторно к Гульмире и - это просто чудо!- она постригла меня так, что теперь я просто мою вечером голову, в утром просыпаюсь с укладкой на голове. Гульмира сумела так постричь, что не нужно даже бигуди накладывать утром, это просто сказка 👍👍👍\nЧитать целиком\n1 посещение\nОтзыв подтверждён\nПолезно?\nАру ?\n7 отзывов\n30 апреля 2026, изменён\nПосетила этот салон и осталась в хорошем впечатлений! Другой салон очень сильно испортил мне волосы. Но Мастер Алия — профессионал своего дела, в буквальном смысле «спасла» мои волосы! сделала все очень качественно и аккуратно. Стрижка и сложное окрашивание очень мне понравились🫶🏻\nОтдельно хотела бы отметить сервис в этом салоне, администратор очень вежливая и милая женщина!\nЯ благодарна вашему салону за такую качественную услугу❤️\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nАхмед Хамидов\n10 отзывов\n4 июня 2026, изменён\nХорошо подстригли 👍👍👍\n1 посещение\nОтзыв подтверждён\nПолезно?\nAA\nAijan Alimbaeva\n6 отзывов\n16 февраля 2026\nБлагодарю мастера Севинч за качественно выполненную работу. Маникюр выполнен аккуратно, соблюдены все нормы гигиены, покрытие ровное и стойкое. Результатом полностью довольна. Рекомендую как профессионального специалиста.\nЧитать целиком\nЧастый гость\nОтзыв подтверждён\nПолезно?\nAS\nAlisa Sun\n7 отзывов\n12 февраля 2026\nСделала маникюр и педикюр у мастера Севинч.Отличный мастер! Маникюр и педикюр выполнены аккуратно и профессионально.Очень довольна результатом, спасибо! 🙏🏻🌹\nЧитать целиком\n4 посещения\nОтзыв подтверждён\nПолезно?\nalzhnk .\n27 отзывов\n25 ноября 2025\nЕдинственная парикмахерская где работают профессионалы своего дела. Спасибо мастеру Гульмира! К тому же сделали скидку в 20% за первое посещение\n2 посещения\nОтзыв подтверждён\nПолезно?\nАЖ\nАрайлым Жанибек\n4 отзыва\n13 ноября 2025\nПриятные чувства после этого салона ✨ Не часто пишу отзывы, но захотелось оставить, администратор классная женщина и мастера прекрасные, приятные 😊\n2 посещения\nОтзыв подтверждён\nПолезно?\nКамила\n7 отзывов\n8 января 2026\nСалон супер. Мастера топ 😍\n3 посещения\nОтзыв подтверждён\nПолезно?\nАбзал Нокышев\n14 отзывов\n29 ноября 2025\nЛучшая стрижка, лучший хостес 😃\n3 посещения\nОтзыв подтверждён\nПолезно?\nДК\nДана Казиева\n5 отзывов\n21 сентября 2025, изменён\nРаботает мастер с многолетним опытом, Турегали👍🏻 Стрижки самые лучшие\n2 посещения\nОтзыв подтверждён\nПолезно?\nRishat Omirzakov\n3 отзыва\n26 декабря 2025, изменён\n👍🏼👍🏼\n3 посещения\nОтзыв подтверждён\nПолезно?\nСМ\nСаид Мурат\n2 отзыва\n9 февраля 2026\nОчень уютно, админ такая приветливая 🥰\nК сожалению не спросила имя мастера ногтевого сервиса, такая милая и профессионал своей работы. Быстро, красиво 🫶\nЧитать целиком\n1 посещение\nОтзыв подтверждён\nПолезно?\nБалерина Капучино\n4 отзыва\n2 февраля 2026\nАдминистратор очень приятная, мастер Гульмира профессионал своего дела, сделала стрижку и укладку, как я и хотела!\n1 посещение\nОтзыв подтверждён\nПолезно?\nEB\nEste Beauty, салон красоты\n2 февраля 2026, официальный ответ\nДобрый день, спасибо большое за отзыв и высокую оценку 🙏👌 Успехов вам.\nDD\nDi Di\n25 отзывов\n27 сентября 2025\nОчень нравится этот салон, Была на маникюре у мастера Елена! Маникюр супер! Обслуживание и подход к клиентам на высоте! Спасибо 🙏🏻 и процветания салону.\nЧитать целиком\n1 посещение\nОтзыв подтверждён\nПолезно?\nEB\nEste Beauty, салон красоты\n28 сентября 2025, официальный ответ\nЗдравствуйте, Di, огромное спасибо за приятный отклик 😌 Нам очень приятно 💛Будем ждать Вас снова.\nKS\nKamila Sabitova\n20 отзывов\n13 марта 2026\nМастер по наращиванию ресниц Айжан качественно делает свою работу, все учитывает, спасибо 👍🏻\n1 посещение\nОтзыв подтверждён\nПолезно?\nЖ\nЖанаргуль\n19 отзывов\n27 октября 2025, изменён\nСпасибо персоналу всп очень приятные люди. В салоне чистота гармония. Мне все понравилось\n1 посещение\nОтзыв подтверждён\nПолезно?\nГульназ Айтимбетова\n6 отзывов\n21 февраля 2026, изменён\nНе понравилось укладка, очень слабо укладывают\nРусская женщина\n1 посещение\nОтзыв подтверждён\nПолезно?\nEB\nEste Beauty, салон красоты\n25 февраля 2026, официальный ответ\nЗдравствуйте! У нас не раьотает мастер русская женщина, вы что то перепутали. По какому адресу вы были?\nВсе комментарии\nАқтөс Бетховен\n38 отзывов\n1 мая 2025\nСегодня впервые увидел, как работает настоящий мастер своего дела!\n\nБарбер Аглан - ювелир! Подошел с максимальным вниманием, учел все пожелания, не нужно было объяснять на пальцах, понял все с полуслова. Впервые меня устроило АБСОЛЮТНО все в стрижке, рахмет!\n\nАглан, енбегиннин жемисин кор!\n\np.s. Администратор очень вежливая, добрая! Спасибо ей большое за внимание😌\nЧитать целиком\n7 посещений\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nN! Спасибо вам большое, что уделили время и написали отзыв 🙏 Приходите к нам ещё.\nВК\nВасилий Кашигин\n2 отзыва\n29 июня 2025\nВсе на высшем уровне, начиная от ресепшена до мастера. Все очень вежливые, стрижкой очень доволен я давно не мог найти что-то подходящее мастер знает свое дело.\nЧитать целиком\n2 посещения\nОтзыв подтверждён\n3\nПолезно?\nElzhas. Sansyzbay.\n5 отзывов\n18 мая 2025\nВпервые сходил в барбершоп, решил пойти именно в «ЭСТЭ» и не пожалел😁👍🏻 Комфортно и приятно, получил что хотел + скидка 30% за первое посещение и бесплатный чай)✨. Особенно спасибо мастеру своего дела Айгерим. Замечательный и приятный человек❤️.\nЧитать целиком\n2 посещения\nОтзыв подтверждён\n3\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nДобрый вечер, Ельжас., огромное спасибо, что выбрали нас 😌 Рады стараться.\nВсе комментарии\nRomeo Malance\n91 отзыв\n21 февраля 2025, изменён\nОтличный барбершоп, рахмет Ахмету за стрижку! И за полезные советы🤌\nУспехов 💪🏼💪🏼\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nAlmas Kozybayev\n20 отзывов\n18 февраля 2025, изменён\nОтличный барбершоп!\nХочу поблагодарить барбера Бахтияра за отличную работу! Он настоящий профессионал своего дела. Сделал мне именно ту стрижку, которую я хотел, учел все мои пожелания.\nВ барбершопе Old Money очень приятная атмосфера, стильный интерьер. Все сотрудники вежливые и приветливые. Обязательно приду сюда еще раз и буду рекомендовать это место своим друзьям.\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nЖанар🌸 ‘\n15 отзывов\n30 июля 2026\nСамый любимый салон, прихожу и отдыхаю, Анара администратор всегда подбирает удобное время для записи безпроблем, Алия парикмахер мастер своего дела, ставлю 10 из 10 очень приятная и можно доверять свои волосы и отдыхать, респект, рекомендую всем\nЧитать целиком\nПолезно?\nTS\nTamer Salmenov\n27 отзывов\n12 сентября 2025\nКлассный барбершоп, круто постригли и быстро, мастера все мастера своего дела))\n2 посещения\nОтзыв подтверждён\nПолезно?\nKH .\n15 отзывов\n15 августа 2025\nСпасибо Барберу Айгерим за профессиональную укладку 🙌🏼\n2 посещения\nОтзыв подтверждён\nПолезно?\nZM\nZara Mayer\n3 отзыва\n9 сентября 2025\nМастер ногтевого сервиса Акерке лучшая из лучших. 10 из 10\n1 посещение\nОтзыв подтверждён\nПолезно?\nTemirlan Oralov\n15 отзывов\n17 августа 2025\nСпасибо барберу Айгерим👍🏻\n1 посещение\nОтзыв подтверждён\nПолезно?\nAA\nAlmat Ab\n5 отзывов\n3 августа 2025\nТурегали мастер наивысшей категории, стригусь у него уже 15 лет\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nAQ\nATIM QZ\n55 отзывов\n30 июля 2025\nАхмед спасибо большое классно постриг.\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nA7\nAlken 7\n9 отзывов\n26 июля 2025\nРахмет мастеру Бахтияру за отличную работу! Обращаюсь к нему уже не в первый раз и каждый раз остаюсь очень доволен результатом. Профессиональный подход, качественная стрижка и приятное обслуживание. Рекомендую всем!\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nZA\nZhambul Alishbaev\n7 отзывов\n21 июля 2025\nБольшой рахмет за сервис, отдельное спасибо Айгерим, классно стрижет 👍\n1 посещение\nОтзыв подтверждён\n3\n3\nПолезно?\nСС\nСауран Саматов\n36 отзывов\n10 июля 2025\nКөп көп рақмет сіздерге!!! Тек қана биіктерден көріне беріңіз!!!\n1 посещение\nОтзыв подтверждён\n2\n2\nПолезно?\nСБ\nСамат Бисембаев\n16 отзывов\n9 июля 2025\nБаха топ ⭐️ ⭐️ ⭐️ ⭐️ ⭐️\n1 посещение\nОтзыв подтверждён\n3\n1\nПолезно?\nРустем Умиров\n10 отзывов\n8 июля 2025\nОтличный сервис, Бахтияр - профи\n1 посещение\nОтзыв подтверждён\n2\n1\nПолезно?\nMS\nMargulan Shayahmetov\n8 отзывов\n8 июля 2025\nАдмин и парикмахер стажер - респект\n1 посещение\nОтзыв подтверждён\n2\n1\nПолезно?\nTB\nTalgat B\n2 отзыва\n5 июля 2025\nСегодня был в барбершопе ЭСТЭ хочу выразить благодарность барберу Ағлану мастер своего дела✊✊\nОбязательно приду ещё раз!\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nАТ\nАсылхан Турманов\n10 отзывов\n4 июля 2025, изменён\nАхмед респект ✊\n1 посещение\nОтзыв подтверждён\n1\n1\nПолезно?\nБА\nБексултан Абдисалим\n7 отзывов\n30 июня 2025\nМастер Ахмет 👍🏻👍🏻👍🏻\n1 посещение\nОтзыв подтверждён\n1\n1\nПолезно?\nCs\nCity spirit\n5 отзывов\n25 июня 2025\nАйгерим, отличный мастер!\n1 посещение\nОтзыв подтверждён\n1\n1\nПолезно?\nAM\nArsen Mukhamejanov\n6 отзывов\n22 июня 2025\nОтличный барбер шоп. Отдельная благодарность мастеру Айгерим за хорошую стрижку и обслуживание.\n1 посещение\nОтзыв подтверждён\n1\n1\nПолезно?\nM Sabyrov\n7 отзывов\n21 июня 2025, изменён\nАглан спасибо за стрижку лучшее просто👍👍👍👍👍\n1 посещение\nОтзыв подтверждён\n1\n1\nПолезно?\nRR\nR R\n3 отзыва\n21 июня 2025\nАглан оте жаксы шаш алады маган унады! Шаштыда оте керемет бойяиды екен ! Жумысына четка карайды!\n1 посещение\nОтзыв подтверждён\n1\n1\nПолезно?\nАА\nАбай Абдулла\n6 отзывов\n20 июня 2025\nБахтияр хорошо стрижёт, всем советую\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nБТ\nБекнур Тишбеков\n17 отзывов\n19 июня 2025\nХочу выразить огромную благодарность барбершопу и особенно мастеру Айгерим! 🌟\nПервый раз сегодня — и на сто процентов доволен. Айгерим — настоящий профессионал своего дела: внимательная, аккуратная, с хорошим вкусом и лёгкой рукой. Очень чётко чувствует, чего хочет клиент. Смело записывайтесь к Айгерим. Рекомендую на 100%! 🔥\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nEB\nEste Beauty, салон красоты\n19 июня 2025, официальный ответ\nСпасибо вам за добрые слова 🙏 Будем ждать Вас снова!\nШамшиддин Халикбердиев\n7 отзывов\n18 июня 2025\nАйгерим вам большое спасибо все отлична обслуживания все отлично все хорошо мне понравилась 👍👍\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nЛена Гущина\n3 отзыва\n17 июня 2025\nПосетили данный барбершоп, очень понравилось и сервис и качество! Хотелось сказать что будем посещать, но далеко т.к. мы из Челябинска.\n1 посещение\nОтзыв подтверждён\nПолезно?\nEB\nEste Beauty, салон красоты\n19 июня 2025, официальный ответ\nДобрый вечер, Лена, спасибо за ваш отзыв и оценку 🙏 Рады Вам 💛\nВА\nВитас Аугустайтис\n12 отзывов\n12 июня 2025\nОчень хороший барбершоп, мастер Айгерим супер, очень заботливая, аккуратная и мастер лучше всех. Был первый раз.\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n12 июня 2025, официальный ответ\nЗдравствуйте, благодарим, что выбираете нас 💛 Ждём вас в гости снова 😉\nMadiyar Mustafa\n26 отзывов\n11 июня 2025\nХочу выразить огромную благодарность мастеру - Айгерим из салона красоты \"ЭСТЭ\"! Это был мой первый визит к ней, и я остался в полном восторге. Айгерим – настоящий профессионал своего дела. С первых минут было видно, с каким трепетом и вниманием она относится к своей работе. Каждый её шаг был выверенным и точным. Она не просто стрижет, а создает образ, учитывая все пожелания. Очень прилежный и аккуратный мастер! Результат превзошел все мои ожидания. Однозначно рекомендую и теперь буду ходить только к ней!\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n12 июня 2025, официальный ответ\nДобрый день. Огромное спасибо, что выбрали нас ❤ Были рады Вамь 🙏🏼\nМК\nМухтасип Коянбаев\n3 отзыва\n2 июня 2025\nБахтияр барберге рахмет! Оз ісінің маманы! 👍\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nMS\nMeer S\n23 отзыва\n2 июня 2025\nБахтияр мастер - хороший специалист\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nТурар Орынбеков\n3 отзыва\n30 мая 2025\nВсе отлично мастер Бахтияр супер классно стрижет\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n30 мая 2025, официальный ответ\nДобрый вечер. Спасибо, Турар, за добрые слова! Нам очень приятно\nMélsuly .\n7 отзывов\n28 мая 2025, изменён\nАйгерим барбер өте жақсы алады❤️\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nEB\nEste Beauty, салон красоты\n30 мая 2025, официальный ответ\nПікіріңізге көп рахмет! Бұл біз үшін өте маңызды.\nРустам Рустамов\n4 отзыва\n25 мая 2025\nБыл у барбера Айгерим. Профессианал своего дела. Отличный сервис . Вернусь еще.\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nАбылайхан Абсамат\n11 отзывов\n24 мая 2025\nСпасибо мастеру Айгерим, четко❤️\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nRS\nRahat Shilmagambet\n23 отзыва\n23 мая 2025\nЗаписался на стрижку по совету знакомых. Быстро приняли бронь.\n\nМесто отличное, сервис суперский. Особая благодарность Айгерим. Профессионал своего дела!\n\nРекомендую данное место\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nЗдравствуйте! Большое спасибо за доверие 😉 Приходите к нам ещё!\nНурсултан Тельманов\n40 отзывов\n22 мая 2025\nЯ в первые постригся здесь у мастера Ахмеда, и скажу что это топовый барбер!) Мастер своего дела, а что самое прикольное очень грамотный и интересный собеседник!🔥 Администратор очень вежливая, атмосфера приятная) всем советую!🙏🏻 Лучший сервис👍🏻\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nЗдравствуйте, Нурсултан, благодарим вас за такой приятный отзыв! Всегда рады помочь 🤝\nSS\nS S\n11 отзывов\n21 мая 2025, изменён\nЗаходил на разведку. Попал на акцию. Всё вежливо, культурно. Результатом доволен\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n22 мая 2025, официальный ответ\nAnton, здравствуйте! Спасибо за отзыв! Приходите ещё 🙏🏼\nIsatay Sadirov\n19 отзывов\n18 мая 2025, изменён\nСпасибо барберам которые сделали мой день намного лучше. Отдельно спасибо Агылану сделал свою работу на вышем уровне. Забегу обязательно\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nДобрый день! Спасибо большое за отзыв 🙏 Приходите в гости ещё ❤\nJC\nJorde Cuera\n9 отзывов\n18 мая 2025\nСпасибо мастеру Айгерим, все быстро и чётко!\n1 посещение\nОтзыв подтверждён\n4\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nJorde, добрый день, благодарим за добрые слова 🙏 Приходите, будем рады вас видеть 💛\nAS\nAdilet Saparbek\n10 отзывов\n6 мая 2025\nСкажу так, мне всегда было все равно где стричься, а теперь, когда знаю, что могу непросто смотреться в зеркало, а хорошо провести время, беседуя, в каких-то моментах открывать для себя что-то новое, где-то получить жизненный опыт… это место, действительно, притягивает. Рахмет Вам, Төреғали!\nЧитать целиком\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nAdilet, добрый день! Спасибо большое за теплые слова! Были рады помочь!\nAbilkassym Yessentayev\n4 отзыва\n12 апреля 2025, изменён\nШашымды Ақұлан деген жігітке қидырдым. Ұқыпты алады екен👍\n1 посещение\nОтзыв подтверждён\n2\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nПікіріңізге көп рахмет! Біз сізді қайтадан көруге қуаныштымыз 😉\nЖан Садвакасов\n12 отзывов\n2 апреля 2025\nУже во второй раз у Ахмеда , отлично стрижет. Рекомендую 🙌\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n2 апреля 2025, официальный ответ\nРады стараться для Вас!\nСМ\nСултан Маратов\n20 отзывов\n29 марта 2025, изменён\nАглан мастер своего дела,знает как правильно стричь👍\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nДобрый вечер. Огромное спасибо за ваш отзыв! Приходите в гости ещё!\nAS\nArt Saf\n13 отзывов\n17 марта 2025\nКлассный барбершоп! Арлан отличный мастер! Рекомендую!\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nАЕ\nАкылбек Есенбаев\n12 отзывов\n10 марта 2025\nОтличная локация. Хорошие мастера. Особая благодарность баберу Торегали. Уже как полгода постригаемся тут с сыном!Рекомендую к посещению!\n1 посещение\nОтзыв подтверждён\n1\nПолезно?\nTK\nTairlan Kairolla\n6 отзывов\n4 июля 2026\nОтличное место! Мастер Азамат прекрасно справляется со своей работой!\nПолезно?\nНС\nНуржан Сактаганов\n16 отзывов\n1 июля 2026, изменён\nВсё понравилось, мастеру Аглану спасибо!\nПолезно?\nAA\nAliya Amangeldiqyzy\n1 отзыв\n29 июня 2026\nГүлмира ханым сыпайы, жұмысын өте ұқыпты жасайды, шашымды әдемі етіп қиып берді ❤️\nПолезно?\nСА\nСауле Аманбаева\n4 отзыва\n2 июня 2026\nДоброго времени суток! Сегодня посетила данный салон, очень все понравилось. Запись онлайн, сразу видно когда и к какому мастеру можешь попасть, что очень экономит время. Мастер Алия,грамотный специалист, подсказала, рассказала. Рекомендую. Спасибо большое 🌺\nЧитать целиком\nПолезно?\nTT\nTomiris Tomiris\n9 отзывов\n8 мая 2026\nВ восторге от каскада! Спасибо мастеру Алие за ее красивую работу. Девочки, всем рекомендую записываться на стрижку именно в этот салон, именно к Алие) Вышла оттуда с отличным настроением 🥰\nЧитать целиком\n1\nПолезно?\nT4YLORY <3\n26 отзывов\n12 апреля 2026\nв целом место довольно простое, бюджетное, искреннее. видно, что люди стараются. администратор вовлечён, мастера работают, пытаются создать хоть какой-то уют. это чувствуется и оставляет скорее нейтрально-положительное впечатление.\n\nиз минусов: в помещении есть сырой запах, как будто после влажной уборки, возможно, стоит обратить на это внимание, потому что это сразу влияет на общее восприятие.\n\nно больше всего смутило другое. сложилось ощущение, что в процессе работы стоимость может «плавать». в первый визит появились дополнительные позиции, за которые пришлось доплатить. во второй раз, когда уже хотела вернуться, вместо понятной и прозрачной цены начали снова добавляться какие-то доплаты и рекомендации, из-за чего итоговая стоимость стала выше ожидаемой.\n\nв какой-то момент возникает ощущение, что на тебе пытаются заработать больше, чем изначально озвучено. это не критично, но именно это и отталкивает. когда приходишь за понятной услугой, хочется такой же понятной и честной цены.\n\nв итоге осталось двоякое впечатление: с одной стороны— простое место с людьми, которые стараются, с другой— ощущение не до конца прозрачного подхода к клиенту. из-за этого возвращаться уже не хочется.\n\nжелаю вам успехов.\nЧитать целиком\nПолезно?\nБА\nБахшагул Алимбетова\n5 отзывов\n10 апреля 2026\nСегодня сделала коррекцию бровей у мастера Айжан.понравилось. очень приятный вежливый милый мастер. Бровки очень понравились. Благодарю ее за прекрасную работу.\nЧитать целиком\nПолезно?\nКристина Райсвих\n22 отзыва\n8 апреля 2026\nМастер маникюра и подолог Елена топ. Все четко делает, грамотная, легкая, доброжелательная, приветливая, клиентоориентированная. Работу делает прекрасно и профессионально. Спасибо. Отделанная благодарность администратору. Очень нравится приходить в ваш салон, все очень душевно и сервис на высоте.\nЧитать целиком\n1\nПолезно?\nАС\nАнна Стретович\n5 отзывов\n8 апреля 2026\nХочу выразить благодарность мастеру Алия: красиво уложила волосы и самое главное - быстро. Отличный салон, рекомендую!\n1\nПолезно?\nЕлизавета Фортунатова\n17 отзывов\n28 февраля 2026\nБыла на покраске у Екатерины, осталась очень довольна\nПроцедура проведена аккуратно, окрашиванием очень довольна, как раз перед мероприятием пошла 👍🏻\nЧитать целиком\nПолезно?\nDana Kuderova\n2 отзыва\n26 декабря 2025\nСпасибо мастеру по ресницам Айжан 🙏🏻\nХожу уже год\nРесницы очень красивые, хорошо держатся 👍🏻\nРекомендую 💪🏼\n1\nПолезно?\n…. ….\n15 отзывов\n25 августа 2025, изменён\nОчень плохо стрегут 🤢🤮🤮🤢🤢🤢\n1 посещение\nОтзыв подтверждён\nПолезно?\nEB\nEste Beauty, салон красоты\n25 августа 2025, официальный ответ\nЗдравствуйте! Вы когда были у нас ? И у какого мастера?\nВсе комментарии\nСА\nСара Акимгалиева\n4 отзыва\n5 февраля 2026\nСегодня была в шоке ужасный салон красоты!! С только времени потеряла, была записана на 16:00 , после просили приехать к 17:00 якобы мастер не успевает, отняли время и нервы, записана была мастеру Алия 😕 женщина грубая, при мытья мои волосы начала дергать, на замечание!! Реагирует и начала мне высказывать свои недовольство, чтобы я молчала!! Отношение клиентам ужас, Администратор женщина взрослая не может ничего решит , с мокрой головой пришлос уйти, на просьбу высушить волосы не реагировали, это женщина ведет себя по хамскии ругалась со мной, перед другими людьми, не советую всем, 🤦‍♀🤦‍♀🤦‍♀ но я везде напишу отзыв про ваш салон красоты, шарашкина контора называется!\nЧитать целиком\n1\nПолезно?\nАА\nАлма Абулхаирова\n1 отзыв\n19 февраля 2026\nЗдравствуйте!15 февраля мне укладку делала мастер Гульмира,макияж делала мастер Асия.Хочу поблагодарить их за хорошее обслуживание\nПолезно?\nAY\nAniya Yelzhassova\n11 отзывов\n8 февраля 2026\nХожу к мастеру Айжан на наращивание ресниц, очень крутой мастер, всем советую, делает качественно, очень приятная, вежливая и красивая девушка✅\nПолезно?\nНП\nНастья Пак\n5 отзывов\n30 января 2026\nОчень классный салон, была на маникюре у мастера Елены. Делает очень аккуратно, всё чисто и профессионально. Осталась очень довольна результатом, обязательно приду ещё\nЧитать целиком\nПолезно?\nРШ\nРустем Шулахов\n8 отзывов\n27 декабря 2025\nАйжан квалифицированный и опытный специалист #1. Всем рекомендую, не пожалеете. Очень приветливая и внимательная к работе. Любит свое дело и вкладывает душу в работу. Супруга и многие знакомые ходят к ней, все довольны. Всех с наступающим, мира, добра и терпения всем желаю!!!!\nЧитать целиком\nПолезно?\nЖ\nЖанка\n12 отзывов\n27 декабря 2025, изменён\nLashmaker Айжанға үлкен рақмет! Жұмысын тиянақты жасайды! Өте сыпайы , сымбатты қыз! Алғысым шексіз ! Мастер номер 1 ❤️ Рекомендую всем 🔥\nПолезно?\nМУ\nМадина Умбеталиева\n3 отзыва\n26 декабря 2025\nХочу поблагодарить мастера Айжан за отличную работу! Наращивание ресниц прошло комфортно, мастер очень аккуратная и внимательная. Ресницы выглядят красиво и ухоженно, держатся хорошо. В салоне приятная атмосфера, обязательно буду рекомендовать Айжан своим знакомым 💖\nЧитать целиком\nПолезно?\nDD\nDinara Dinara\n4 отзыва\n26 декабря 2025\nСамый классный мастер по наращиванию ресниц Айжан !!!! Хожу к ней уже полгода, все нравится, стерильно, материалы качественные. Профессионал своего дела, знает что подобрать, какой изгиб, длины. Супер мастер, всегда хожу к Айжан с удовольствием 😘😍\nЧитать целиком\n1\nПолезно?\nУК\nУлдана Карабауова\n16 отзывов\n26 декабря 2025\nАйжан — ТОП-1 мастер по наращиванию ресниц. Результат держится долго, качество отличное. Очень приятная и красивая девушка. С наступающим Новым годом всех мастеров салона!\nЧитать целиком\nПолезно?\nЮН\nЮрий Н\n3 отзыва\n31 августа 2025\nСпасибо Барберу Екатерине за профи стрижку.\nЗаведение приятное. Только трудно найти было так как в арке вход.\n1\nПолезно?\nЕА\nЕрлан Азамат\n7 отзывов\n6 августа 2025\nМастер Жандос топ !!! 🔥 🔥 🔥\nВсе прошло на высшем уровне!!! Всем советую, обязательно только к нему !!!\n1\nПолезно?\nAS\nAlimzhan Svambaev\n26 отзывов\n8 июля 2025\nМастеру Гуле огромное спасибо за ее профессионализм!\n2\n1\nПолезно?\nСБ\nСаша Баронов\n13 отзывов\n18 мая 2025\nСегодня впервые посетили этот барбершоп, и стриглись у мастера Бахтияра. Хотим выразить особую благодарность за его профессионализм, и индивидуальный подход. Бахтияр не только сделал отличную, и аккуратную стрижку сыну, но и смог легко найти с ним общий язык, расположить к себе. Ребёнок остался доволен, а это лучший показатель! Мы тоже в полном восторге. Всё прошло на высшем уровне. Рекомендуем мастера Бахтияра от всей души! За фото просим прощения.\nЧитать целиком\n2\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nСпасибо Александр за доверие 🔥 Очень приятно, рады Вам!\nAzat Jak\n7 отзывов\n7 апреля 2026\nСпасибо\nПолезно?\nАдгоз Исмлиева\n1 отзыв\n13 февраля 2026\nЯ осталась не очень довольна так как делала окрашивание ,волосы испорчены, но укладка была неплохая\nПолезно?\nAS\nAstana Star\n32 отзыва\n30 января 2026\nХорошая парикмахерская\nПолезно?\nDesign Master\n45 отзывов\n20 января 2026\nХорошая парикмахерская\n1\nПолезно?\nДжентельмен\n27 отзывов\n11 декабря 2025\nВсе классно!\n1\nПолезно?\nДинар Динахметов\n1 отзыв\n2 октября 2025\nВсе супер !!! Төке көп көп рахмет!!!\nПолезно?\nB\nBookich\n27 отзывов\n27 марта 2025\nЗанимаются обманом! Нет желания туда идти, сами запустили акцию и сами же на ходу придумывают! Это же ребенок, тем более без мойки. Кошмар. Настоящая дилемма постричь волосы,нашли по отзывам. Ужас просто, испортили все впечатление ещё до прихода. Клиентоориентированности ноль\nЧитать целиком\n2\nПолезно?\nak\naltynbek karibzhanov\n3 отзыва\n31 января 2026\nПостригли мне волосы максимально уродскую и примитивную и цена не обоснованно высокая 3500тг\nПолезно?\nUmo Spart\n3 отзыва\n4 сентября 2025\nХороший салон, хороший сервис! Мастер Бахтияр- Топ! Спасибо!\nПолезно?\nАкмейр Сабржан\n8 отзывов\n14 августа 2025, изменён\nГульнара лучший мастер👍 подобрала хорошую стрижку. Золотые руки много комплиментов взяла спасибо большое👍\nПолезно?\nS\nSanzhar\n2 отзыва\n9 августа 2025, изменён\nБахтияр хороший мастер. Профессионал своего дела\nПолезно?\nAD\nAst Doyt\n17 отзывов\n7 августа 2025\nВыбирайте Айгерим!\nПолезно?\nЖК\nЖунусбек Калиев\n13 отзывов\n3 августа 2025\nБыл на стрижке у мастера Аглан. Доволен стрижкой. Рекомендую!\n2\nПолезно?\nМЕ\nМаксат Есжанов\n2 отзыва\n25 июля 2025\nМастер Айгерим люто рекомендую👍\n2\nПолезно?\nAU\nApple User\n3 отзыва\n6 июля 2025, изменён\nСпасибо мастеру Айгерим)\nБыстро, классно) привет с России )\n2\n1\nПолезно?\nDD\nDauren Dairabayev\n4 отзыва\n3 июля 2025\nАйгерим супер!\n1\n1\nПолезно?\nEM\nErmek Murzabayev\n9 отзывов\n27 июня 2025\nПодстригся сегодня у мастера Айгерим, очень понравилось ее внимание и качество стрижки! Сразу видно что она профессионал, любящий свое дело! Всем мужчинам рекомендую смело к ней на стрижку👍👍👍!\nЧитать целиком\n1\n1\nПолезно?\nАZ\nАзат Zhumabekov\n6 отзывов\n12 июня 2025\nБлагодарю мастера Айгерим за проделанную работу,как я хотел) профессионально,быстро,аккуратно🫶🏻🫠\n1\nПолезно?\nLAKSHmi LAKSH\n7 отзывов\n2 июня 2025\nПервый раз воспользовался услугами ЭСТЭ барбершоп.\nБыл у Мастера Бахтияра. на первый взгляд расположил к себе внимание. Уточнил предпочтения к стрижки. Довольно общительный и разносторонний человек. Выполнил свою работу аккуратно, в рамках установленного времени. Результатом остался доволен. Рекомендую ЭСТЭ барбершоп.\nЧитать целиком\n2\nПолезно?\nАБ\nАсылулан Байкенжин\n24 отзыва\n30 мая 2025\nТам работает Баха, то есть Бахтияр он топ Барбер, интересно с ним поговорить на разные темы и эти темы как будто медицинская тайна, стрижёт превосходно, восхищён тем как он изменил мне образ и стиль, был простым и после стрижки стал выглядеть как будто в списке форпс, к сожалению ощущение было чуть по другому, как будто форпс не был меня достоин!\nЧитать целиком\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n30 мая 2025, официальный ответ\n😂Спасибо за ваш крутой отзыв! Бахтияр на самом деле очень интересный собеседник и мастер высшего пи…\nАйсултан Наметов\n8 отзывов\n5 мая 2025\nПостоянный клиент\nБарберы профессионалы\nОчень нравится\nМолодцы\n1\nПолезно?\nEB\nEste Beauty, салон красоты\n6 мая 2025, официальный ответ\nСпасибо! Рады Вам всегда!\nНЖ\nНурлат Жанбеков\n7 отзывов\n30 марта 2025\nАхмед как всегда ТОП\nВысший уровень 🔥🔥🔥\n1\nПолезно?\nSK\nSultanbek Kaziyev\n4 отзыва\n30 марта 2025\nБыл в барбершопе впервые, и остался в полном восторге! Стригся у мастера Аглана — и, честно говоря, впервые на моей памяти я настолько доволен работой барбера. Аглан — настоящий профессионал: всё сделал аккуратно, учёл мои пожелания. Теперь знаю, куда буду возвращаться!\nЧитать целиком\n2\nПолезно?\nEB\nEste Beauty, салон красоты\n23 мая 2025, официальный ответ\nSultanbek. Спасибо большое за добрые слова о нашей работе 😉 Приходите к нам ещё.\nБТ\nБатыр Тортаев\n2 отзыва\n18 января 2025\nХочу поблагодарить мастера Торегали из барбершопа за отличную работу! Он действительно профессионал своего дела — всегда внимательно выслушает пожелания и предложит подходящий стиль. Атмосфера в барбершопе уютная и стильная, а качество обслуживания на высоте. Я остался очень доволен результатом, и уверен, что буду приходить снова. Рекомендую Торегали всем, кто хочет получить качественную стрижку и отличный сервис!\nЧитать целиком\n1\nПолезно?\nО.\nОлжас .\n11 отзывов\n27 ноября 2024\nКлассно подстригли, приду ещё. Мастера опытные, всё что надо узнают, подскажут и поймут, что вам предпочтительнее. Х о р о ш о.\n1\nПолезно?\nYR\nYerden Ramazanov\n4 отзыва\n24 октября 2024\nБахтияр очень классный барбер. В первый постригли так как хотел\n1\nПолезно?\nРИ\nРауан Искаков\n14 отзывов\n24 октября 2024, изменён\nЛучший мастер в моей жизни! Отличная беседа и проделанная работа! 🪄👍\nНаша жизнь в наших руках\n1\nПолезно?\nЕС\nЕрнар Саветбек\n4 отзыва\n10 октября 2024\nОтлично стригут, мастер Торегали очень тщательно и щепетильно отнесся к делу .\nКрайне рекомендую! 👍🏻\n1\nПолезно?\nJD\nJack Daniels\n4 отзыва\n10 октября 2024\nОчень грамотный мастер, все на высшем уровне, красиво подобрал форму стрижки и бороды, Рахмет\n1\nПолезно?\nЕлжас Бакыт\n4 отзыва\n4 октября 2024\nТорегали, спасибо! Отличная стрижка, приду снова👍👍👍\n1\nПолезно?\nDaryn Daryn\n11 отзывов\n22 сентября 2024\nХорошо постригли, все четко и аккуратно! Успехов и процветания! Клиентоориентированность на высшем уровне!\n1\nПолезно?\nAN\nAinagul Nadyrgaliyeva\n5 отзывов\n20 сентября 2024\nДобрый день! Хотелось бы поблагодарить мастера Турегали за проявленное мастерство и огромный позитив ☀️\nвпервые сыну подростку понравилась стрижка 👍🏽 теперь будем ходить к вам не только за стрижкой и вкусным кофе))\nно и за зарядом положительной энергией ✨✨✨\nЧитать целиком\n2\nПолезно?\nLD\nL D\n25 отзывов\n19 сентября 2024\nСтрижка понравилась, пожелания учли. Благодарю мастера Бахтияра за работу!\n2\nПолезно?\nNS\nNurgisa Samatuly\n6 отзывов\n15 сентября 2024\nОтличное место, как для стрижки, так и для поднятия настроения на день. Общительный барбер, показал лучший сервис🔥🔥🔥\n1\nПолезно?\nMusssa Musaev\n7 отзывов\n15 сентября 2024\nОтличный барбер, высший уровень сервиса 100%.С порога предложили кофе, дали удобное место. Очень приятный в общении Барбер-по совместительству владелец Парихмахерской.Стрижка идеальная.\nЧитать целиком\n1\nПолезно?\nТимуравелли\n15 отзывов\n12 сентября 2024\nСпасибо сразу видно что мастера 👍\n1\nПолезно?\nДархан Сарсенбек\n17 отзывов\n12 сентября 2024\nКлассный барбершоп! Классные мастера! Быстро, четко и красиво! Бахтияр мастер Топ! 🔥🔥\n1\nПолезно?\nШБ\nШайкенов Болат\n7 отзывов\n12 сентября 2024\nЗабежал в ближайшую парикмахерскую по 2gis и как говорится нашел своего парикмахера). Подстриг классно и историй весёлых нарассказывал. Спасибо мастеру Торегали\nЧитать целиком\n1\nПолезно?\nХЭ\nХосэ Энрике\n82 отзыва\n11 сентября 2024\nШикардосовский мастер Торегали.\nБольшой Рахмет Вам. Сделали именно то, что мне было нужно 👍\n1\nПолезно?",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/astana/directions/points/%7C71.435577%2C51.12679%3B70000001092448703"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/astana/firm/70000001092448703"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/info"
+        },
+        {
+          "text": "Отзывы 131",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/reviews"
+        },
+        {
+          "text": "Цены",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/prices"
+        },
+        {
+          "text": "Фото 21",
+          "href": "https://2gis.kz/astana/gallery/firm/70000001092448703"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/questions"
+        }
+      ]
+    },
+    "features": {
+      "url": "https://2gis.kz/astana/firm/70000001092448703/tab/info",
+      "title": "Este Beauty, салон красоты на карте, Парикмахерские услуги, Астана — 2ГИС",
+      "heading": "Este Beauty",
+      "meta": "Este Beauty, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Жен.стрижка от 7000 тнг., Муж.стрижка от 5000 тнг., Детская стрижка, Стрижка бороды, Женская химзавивка, Мужская химзавивка, Сложное окрашивание, Wi-Fi для клиентов",
+      "text": "Сохранить\nОтправить\nМаршрут\nEste Beauty \nСалон красоты\n4.9\nПодтверждён\n(189)\nКонтакты\nИнфо\nОтзывы\n131\nЦены\nФото\n21\nВопросы\nПарикмахерские\n​Жен.стрижка от 7000 тнг.​Муж.стрижка от 5000 тнг.​Детская стрижка​Стрижка бороды​Женская химзавивка​Мужская химзавивка​Сложное окрашивание\nРесницы и брови\n​Наращивание ресниц​Ламинирование ресниц​Окрашивание ресниц​Коррекция бровей​Окрашивание бровей​Ламинирование бровей\nУслуги\nОнлайн-услуги\nДополнительно\nWi-Fi для клиентов\nСпособы оплаты\n​Оплата картой​Наличный расчёт​Оплата по QR-коду\nВ справочнике\n​Парикмахерские услуги​Визажисты​Оформление бровей и ресниц​Эпиляция​Подолог​Обучение мастеров для салонов красоты\nПарковка\n​10 мест​Бесплатная\nТранспорт\nДом министерств\n​7 мин​700 м\nБайтерек\n​9 мин​800 м\n6 парковок\nТакже люди ищут\n​Салон красоты рядом​Салон красоты​Шаштараз рядом\nНашли ошибку в данных?\n​Это моя компания​Реклама в 2ГИС ↗\n​2ГИС для Android​2ГИС для iOS\nДобавить заметку",
+      "links": [
+        {
+          "text": "Маршрут",
+          "href": "https://2gis.kz/astana/directions/points/%7C71.435577%2C51.12679%3B70000001092448703"
+        },
+        {
+          "text": "Контакты",
+          "href": "https://2gis.kz/astana/firm/70000001092448703"
+        },
+        {
+          "text": "Инфо",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/info"
+        },
+        {
+          "text": "Отзывы 131",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/reviews"
+        },
+        {
+          "text": "Цены",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/prices"
+        },
+        {
+          "text": "Фото 21",
+          "href": "https://2gis.kz/astana/gallery/firm/70000001092448703"
+        },
+        {
+          "text": "Вопросы",
+          "href": "https://2gis.kz/astana/firm/70000001092448703/tab/questions"
+        },
+        {
+          "text": "Парикмахерские услуги",
+          "href": "https://2gis.kz/astana/search/%D0%9F%D0%B0%D1%80%D0%B8%D0%BA%D0%BC%D0%B0%D1%85%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B5%20%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/rubricId/305"
+        },
+        {
+          "text": "Визажисты",
+          "href": "https://2gis.kz/astana/search/%D0%92%D0%B8%D0%B7%D0%B0%D0%B6%D0%B8%D1%81%D1%82%D1%8B/rubricId/58858"
+        },
+        {
+          "text": "Оформление бровей и ресниц",
+          "href": "https://2gis.kz/astana/search/%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B1%D1%80%D0%BE%D0%B2%D0%B5%D0%B9%20%D0%B8%20%D1%80%D0%B5%D1%81%D0%BD%D0%B8%D1%86/rubricId/110355"
+        },
+        {
+          "text": "Эпиляция",
+          "href": "https://2gis.kz/astana/search/%D0%AD%D0%BF%D0%B8%D0%BB%D1%8F%D1%86%D0%B8%D1%8F/rubricId/110816"
+        },
+        {
+          "text": "Подолог",
+          "href": "https://2gis.kz/astana/search/%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3/rubricId/110410"
+        },
+        {
+          "text": "Обучение мастеров для салонов красоты",
+          "href": "https://2gis.kz/astana/search/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B/rubricId/695"
+        },
+        {
+          "text": "Дом министерств",
+          "href": "https://2gis.kz/astana/station/70030077134507419"
+        },
+        {
+          "text": "Байтерек",
+          "href": "https://2gis.kz/astana/station/70030077134178902"
+        },
+        {
+          "text": "Салон красоты рядом",
+          "href": "https://2gis.kz/astana/search/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC"
+        },
+        {
+          "text": "Салон красоты",
+          "href": "https://2gis.kz/astana/search/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD%20%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B"
+        },
+        {
+          "text": "Шаштараз рядом",
+          "href": "https://2gis.kz/astana/search/%D0%A8%D0%B0%D1%88%D1%82%D0%B0%D1%80%D0%B0%D0%B7%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC"
+        },
+        {
+          "text": "Это моя компания",
+          "href": "https://redirect.2gis.com/account/?language=ru&id=68&firmId=70000001109539471&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "Реклама в 2ГИС ↗",
+          "href": "http://redirect.2gis.com/adv/?language=ru&page=online_owner&id=68&calculate_for=70000001092448703&utm_source=online&utm_medium=product&utm_campaign=firmcard"
+        },
+        {
+          "text": "2ГИС для Android",
+          "href": "https://2gis.onelink.me/oJqA?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/astana/firm/70000001092448703/tab/info&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        },
+        {
+          "text": "2ГИС для iOS",
+          "href": "https://2gis.onelink.me/65w0?af_js_web=true&af_ss_ver=2_7_2&pid=online&c=cardFooter&deep_link_value=dgis://2gis.kz/astana/firm/70000001092448703/tab/info&af_sub4=online&af_sub5=cardFooter&af_ss_ui=true&af_dp=https://"
+        }
+      ]
+    },
+    "gallery": {
+      "url": "https://2gis.kz/astana/gallery/firm/70000001092448703",
+      "title": "Este Beauty, салон красоты на карте, Парикмахерские услуги, Астана — 2ГИС",
+      "heading": "Este Beauty",
+      "meta": "Este Beauty, салон красоты: адреса со входами на карте, отзывы, фото, номера телефонов, время работы и как доехать. Жен.стрижка от 7000 тнг., Муж.стрижка от 5000 тнг., Детская стрижка, Стрижка бороды, Женская химзавивка, Мужская химзавивка, Сложное окрашивание, Wi-Fi для клиентов",
+      "text": "4.9\nEste Beauty\nСалон красоты\nВсе21\nВидео1\nСнаружи1\nУслуги13\nИнвентарь3\n…",
+      "links": []
+    }
+  },
+  "gallery_by_category": {
+    "Все": [
+      "https://i3.photo.2gis.com/photo-gallery/cfaf91f2-e753-4c7e-be4d-4d3cbd8e3794_328x170.jpg",
+      "https://i6.photo.2gis.com/photo-gallery/e14c9f5f-719c-41c8-ba62-36ce81325eb8_328x170.jpg",
+      "https://i3.photo.2gis.com/photo-gallery/49d0639f-d2b4-4909-85f3-97e987095d4b_328x170.jpg",
+      "https://i2.photo.2gis.com/photo-gallery/65e8ead2-9ec8-48a2-a779-218a6425ac7c_328x170.jpg",
+      "https://i6.photo.2gis.com/photo-gallery/a780ce56-7359-4eaf-8d80-8d6d3c21f7f4_328x170.jpg",
+      "https://i9.photo.2gis.com/photo-gallery/9137a1ef-9054-4a07-ac71-11ee0740e836_328x170.jpg",
+      "https://i2.photo.2gis.com/photo-gallery/474a18e3-8625-4f99-8e00-5bb2ddf7b455_328x170.jpg",
+      "https://i2.photo.2gis.com/photo-gallery/626e65e1-ec01-4654-8762-2dbfb2e71719_328x170.jpg",
+      "https://i9.photo.2gis.com/photo-gallery/f7ecfa07-913f-49be-8287-065f3dfdf915_328x170.jpg",
+      "https://i0.photo.2gis.com/photo-gallery/c05e2dfb-e412-4b9d-b8b5-c21ed7e9ad3b_328x170.jpg",
+      "https://i6.photo.2gis.com/photo-gallery/dc82f63a-da73-4ea3-ba09-e597f84d538f_328x170.jpg",
+      "https://i5.photo.2gis.com/photo-gallery/6f717ef2-74fd-456c-95cb-b02d79dd6770_328x170.jpg",
+      "https://i0.photo.2gis.com/photo-gallery/dfbb5398-fbed-4175-8a81-ff80849fd522_328x170.jpg",
+      "https://i7.photo.2gis.com/photo-gallery/e8d24cc7-d154-4f4e-9a70-205d80e792d2_328x170.jpg",
+      "https://i8.photo.2gis.com/photo-gallery/4564fc6d-0dcd-426f-9414-16a9758a89b1_328x170.jpg",
+      "https://i3.photo.2gis.com/photo-gallery/09d5f4b0-8bbe-42c5-88df-5af69f03b49b_328x170.jpg",
+      "https://i6.photo.2gis.com/photo-gallery/69282abe-b167-4754-a0b3-a31ed4e3c8b1_328x170.jpg",
+      "https://i0.photo.2gis.com/photo-gallery/ff61c0d8-6caf-4a57-b70e-309957d63dbf_328x170.jpg",
+      "https://i6.photo.2gis.com/photo-gallery/1800ed71-c437-4ffe-8208-556049b5e50c_328x170.jpg",
+      "https://i3.photo.2gis.com/photo-gallery/355792ea-4569-4f0e-86d0-9856d4247618_328x170.jpg"
+    ]
+  },
+  "warnings": [
+    "Logo и Team не создаются без подтверждённого логотипа и данных о конкретных мастерах."
+  ],
+  "download_failures": [],
+  "requested_photo_limit": 35,
+  "gallery_links_found_raw": 20,
+  "gallery_urls_found": 20,
+  "photo_reviewed": true,
+  "salon_photo_limit": 6,
+  "photo_review_summary": {
+    "works": 11,
+    "salon": 6,
+    "deleted": 1
+  }
+}
